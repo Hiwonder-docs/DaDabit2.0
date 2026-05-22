@@ -4,17 +4,18 @@
    contain the root `toctree` directive.
 
 ===========
-DaDabit2.0
+OpenClaw Robotics Integration Course
 ===========
 
 .. toctree::
    :maxdepth: 2
-   :caption: DaDabit2.0
+   :caption: OpenClaw
 
-   docs/1. HX-10HM_Bus_Servo_User_Manual.md
-   docs/2. ESP32_Development.md
-   docs/3. STM32_Development.md
-   docs/4. Raspberry_Pi_Development.md
-   docs/5. Jeston_Development.md
-   docs/Appendix.md
-   Download <https://drive.google.com/drive/folders/1nm5aqTByYc5JKOwHE7Xy2vgI5-vG2tqy>
+   docs/1_OpenClaw_Overview.md
+   docs/2_OpenClaw_Core_Concepts.md
+   docs/3_Environment_Setup_and_Installation.md
+   docs/4_Creating_the_First_Agent.md
+   docs/5_Tool_Debugging_from_Scratch.md
+   docs/6_Telegram_Application_Configuration.md
+   docs/7_Smart_Email_Agent_in_Practice.md
+   Download <https://drive.google.com/drive/folders/1pItQ3pFkGqW59yqeKpXyj2T11IYzAEqN?usp=sharing>
