@@ -11,4 +11,10 @@ DaDabit2.0
    :maxdepth: 2
    :caption: DaDabit2.0
 
-   docs/1.DaDabit2.md
+   docs/1. HX-10HM_Bus_Servo_User_Manual.md
+   docs/2. ESP32_Development.md
+   docs/3. STM32_Development.md
+   docs/4. Raspberry_Pi_Development.md
+   docs/5. Jeston_Development.md
+   docs/Appendix.md
+   Download <https://drive.google.com/drive/folders/1nm5aqTByYc5JKOwHE7Xy2vgI5-vG2tqy>
