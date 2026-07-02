@@ -1,14 +1,12 @@
 # 3. Starter Kit Projects
 
-[TOC]
-
 ## 3.1 micro:bit Board Basic Courses
 
 ### 3.1.1 Logo Control
 
 The location of the logo on the micro:bit board is shown below.
 
-<img src="../_static/media/chapter_3/section_1/media/image1.png" class="inline-icon" style="width:400px;">
+<img src="../_static/media/chapter_3/section_1/media/image1.png" class="common_img" style="width:400px;">
 
 #### 3.1.1.1 Learning Objectives
 
@@ -33,7 +31,7 @@ To switch the displayed icon by touching the logo on the micro:bit board.
 
    - Block Combination
 
-     <img src="../_static/media/chapter_3/section_1/media/image21.png" class="inline-icon" style="width:700px;">
+     <img src="../_static/media/chapter_3/section_1/media/image21.png" class="common_img" style="width:700px;">
 
 #### 3.1.1.3 Device Pairing and Program Downloading
 
@@ -43,29 +41,29 @@ To switch the displayed icon by touching the logo on the micro:bit board.
 
    - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
    - Click **Next** in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
    - Click **Pair** and select the device shown in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
 3. **Download**:
 
    - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
    - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
 4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
@@ -77,7 +75,7 @@ Once the program is downloaded, touching the logo on the micro:bit board will tr
 
 The location of the main chip on the micro:bit board is shown below.
 
-<img src="../_static/media/chapter_3/section_1/media/image2.png" class="inline-icon" style="width:500px;">
+<img src="../_static/media/chapter_3/section_1/media/image2.png" class="common_img" style="width:500px;">
 
 #### 3.1.2.1 Learning Objectives
 
@@ -102,7 +100,7 @@ The location of the main chip on the micro:bit board is shown below.
 
    - Block Combination
 
-     <img src="../_static/media/chapter_3/section_1/media/image22.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image22.png" class="common_img" style="width:500px;">
 
 #### 3.1.2.3 Device Pairing and Program Downloading
 
@@ -112,29 +110,29 @@ The location of the main chip on the micro:bit board is shown below.
 
    - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
    - Click **Next** in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
    - Click **Pair** and select the device shown in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
 3. **Download**:
 
    - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
    - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
 4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
@@ -146,7 +144,7 @@ Lightly press the micro:bit main chip with a finger. When the detected temperatu
 
 The location of the buttons on the micro:bit board is shown below.
 
-<img src="../_static/media/chapter_3/section_1/media/image3.png" class="inline-icon" style="width:400px;">
+<img src="../_static/media/chapter_3/section_1/media/image3.png" class="common_img" style="width:400px;">
 
 #### 3.1.3.1 Learning Objectives
 
@@ -170,7 +168,7 @@ To program the micro:bit buttons to perform as a timer.
 
    - Block Combination
 
-     <img src="../_static/media/chapter_3/section_1/media/image23.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image23.png" class="common_img" style="width:600px;">
 
 #### 3.1.3.3 Device Pairing and Program Downloading
 
@@ -180,29 +178,29 @@ To program the micro:bit buttons to perform as a timer.
 
    - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
    - Click **Next** in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
    - Click **Pair** and select the device shown in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
 3. **Download**:
 
    - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
    - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
 4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
@@ -214,12 +212,12 @@ Once the program is downloaded, press button A three times, and then press butto
 
 * The location of the buzzer on the micro:bit board is shown below.
 
-<img src="../_static/media/chapter_3/section_1/media/image4.png" class="inline-icon" style="width:400px;">
+<img src="../_static/media/chapter_3/section_1/media/image4.png" class="common_img" style="width:400px;">
 
 
 - The location of the buttons on the micro:bit board is shown below.
 
-<img src="../_static/media/chapter_3/section_1/media/image3.png" class="inline-icon" style="width:400px;">
+<img src="../_static/media/chapter_3/section_1/media/image3.png" class="common_img" style="width:400px;">
 
 
 #### 3.1.4.1 Learning Objectives
@@ -237,13 +235,13 @@ To program the micro:bit buttons to perform as a music player.
 
    - Block Combination
 
-     <img src="../_static/media/chapter_3/section_1/media/image24.1.png" class="inline-icon" style="width:300px;">
+     <img src="../_static/media/chapter_3/section_1/media/image24.1.png" class="common_img" style="width:300px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image24.2.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image24.2.png" class="common_img" style="width:500px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image24.3.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image24.3.png" class="common_img" style="width:500px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image24.4.png" class="inline-icon" style="width:550px;">
+     <img src="../_static/media/chapter_3/section_1/media/image24.4.png" class="common_img" style="width:550px;">
 
 #### 3.1.4.3 Device Pairing and Program Downloading
 
@@ -253,29 +251,29 @@ To program the micro:bit buttons to perform as a music player.
 
    - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
    - Click **Next** in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
    - Click **Pair** and select the device shown in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
 3. **Download**:
 
    - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
    - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
 4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
@@ -287,12 +285,12 @@ Once the program is downloaded, pressing button A plays the melody of **Two Tige
 
 * The location of the buzzer on the micro:bit board is shown below.
 
-<img src="../_static/media/chapter_3/section_1/media/image4.png" class="inline-icon" style="width:400px;">
+<img src="../_static/media/chapter_3/section_1/media/image4.png" class="common_img" style="width:400px;">
 
 
 * The location of the microphone on the micro:bit board is shown below.
 
-<img src="../_static/media/chapter_3/section_1/media/image5.png" class="inline-icon" style="width:400px;">
+<img src="../_static/media/chapter_3/section_1/media/image5.png" class="common_img" style="width:400px;">
 
 
 #### 3.1.5.1 Learning Objectives
@@ -320,9 +318,9 @@ Once the program is downloaded, pressing button A plays the melody of **Two Tige
 
    - Block Combination
 
-     <img src="../_static/media/chapter_3/section_1/media/image25.1.png" class="inline-icon" style="width:300px;">
+     <img src="../_static/media/chapter_3/section_1/media/image25.1.png" class="common_img" style="width:300px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image25.2.png" class="inline-icon" style="width:700px;">
+     <img src="../_static/media/chapter_3/section_1/media/image25.2.png" class="common_img" style="width:700px;">
 
 #### 3.1.5.3 Device Pairing and Program Downloading
 
@@ -332,29 +330,29 @@ Once the program is downloaded, pressing button A plays the melody of **Two Tige
 
    - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
    - Click **Next** in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
    - Click **Pair** and select the device shown in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
 3. **Download**:
 
    - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
    - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
 4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
@@ -366,12 +364,12 @@ Once the program is downloaded, speak toward the microphone on the micro:bit boa
 
 - The location of the LED dot matrix on the micro:bit board is shown below.
 
-<img src="../_static/media/chapter_3/section_1/media/image6.png" class="inline-icon" style="width:400px;">
+<img src="../_static/media/chapter_3/section_1/media/image6.png" class="common_img" style="width:400px;">
 
 
 - The location of the speaker on the micro:bit board is shown below.
 
-<img src="../_static/media/chapter_3/section_1/media/image4.png" class="inline-icon" style="width:450px;">
+<img src="../_static/media/chapter_3/section_1/media/image4.png" class="common_img" style="width:450px;">
 
 
 #### 3.1.6.1 Learning Objectives
@@ -397,9 +395,9 @@ Once the program is downloaded, speak toward the microphone on the micro:bit boa
 
    - Block Combination
 
-     <img src="../_static/media/chapter_3/section_1/media/image26.1.png" class="inline-icon" style="width:300px;">
+     <img src="../_static/media/chapter_3/section_1/media/image26.1.png" class="common_img" style="width:300px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image26.2.png" class="inline-icon" style="width:450px;">
+     <img src="../_static/media/chapter_3/section_1/media/image26.2.png" class="common_img" style="width:450px;">
 
 #### 3.1.6.3 Device Pairing and Program Downloading
 
@@ -409,29 +407,29 @@ Once the program is downloaded, speak toward the microphone on the micro:bit boa
 
    - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
    - Click **Next** in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
    - Click **Pair** and select the device shown in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
 3. **Download**:
 
    - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
    - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
 4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
@@ -443,7 +441,7 @@ Once the program is downloaded, move the micro:bit board into a dark place. The 
 
 The location of the magnetometer on the micro:bit board is shown below.
 
-<img src="../_static/media/chapter_3/section_1/media/image7.png" class="inline-icon" style="width:400px;">
+<img src="../_static/media/chapter_3/section_1/media/image7.png" class="common_img" style="width:400px;">
 
 
 #### 3.1.7.1 Learning Objectives
@@ -468,9 +466,9 @@ The location of the magnetometer on the micro:bit board is shown below.
 
    - Block Combination
 
-     <img src="../_static/media/chapter_3/section_1/media/image27.1.png" class="inline-icon" style="width:300px;">
+     <img src="../_static/media/chapter_3/section_1/media/image27.1.png" class="common_img" style="width:300px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image27.2.png" class="inline-icon" style="width:750px;">
+     <img src="../_static/media/chapter_3/section_1/media/image27.2.png" class="common_img" style="width:750px;">
 
 #### 3.1.7.3 Device Pairing and Program Downloading
 
@@ -480,29 +478,29 @@ The location of the magnetometer on the micro:bit board is shown below.
 
    - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
    - Click **Next** in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
    - Click **Pair** and select the device shown in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
 3. **Download**:
 
    - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
    - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
 4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
@@ -519,12 +517,12 @@ The location of the magnetometer on the micro:bit board is shown below.
 
 - The location of the sound module on the micro:bit expansion board is shown below.
 
-<img src="../_static/media/chapter_3/section_1/media/image5.png" class="inline-icon" style="width:400px;">
+<img src="../_static/media/chapter_3/section_1/media/image5.png" class="common_img" style="width:400px;">
 
 
 - The location of the RGB lights on the micro:bit expansion board is shown below.
 
-<img src="../_static/media/chapter_3/section_2/media/image1.png" class="inline-icon" style="width:500px;">
+<img src="../_static/media/chapter_3/section_2/media/image1.png" class="common_img" style="width:500px;">
 
 #### 3.2.1.1 Learning Objectives
 
@@ -537,11 +535,11 @@ The location of the magnetometer on the micro:bit board is shown below.
 
    - Click **Extensions**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="common_img" style="width:1000px;">
 
    - Search for **https://github.com/HiwonderK12/DaDabitV2** in **Extensions** and add **dadabitv2**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="common_img" style="width:1000px;">
 
 2. Principles:
 
@@ -565,7 +563,7 @@ The location of the magnetometer on the micro:bit board is shown below.
 
    - Block Combination
 
-     <img src="../_static/media/chapter_3/section_2/media/image30.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_2/media/image30.png" class="common_img" style="width:600px;">
 
 #### 3.2.1.3 Device Pairing and Program Downloading
 
@@ -575,29 +573,29 @@ The location of the magnetometer on the micro:bit board is shown below.
 
    - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
    - Click **Next** in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
    - Click **Pair** and select the device shown in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
 3. **Download**:
 
    - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
    - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
 4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
@@ -607,7 +605,7 @@ Connect the micro:bit board to the computer using a USB data cable and download 
 
 ### 3.2.2 Servo Control
 
-<img src="../_static/media/chapter_3/section_2/media/image3.png" class="inline-icon" style="width:500px;">
+<img src="../_static/media/chapter_3/section_2/media/image3.png" class="common_img" style="width:500px;">
 
 #### 3.2.2.1 Learning Objectives
 
@@ -621,11 +619,11 @@ Connect the micro:bit board to the computer using a USB data cable and download 
 
    - Click **Extensions**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="common_img" style="width:1000px;">
 
    - Search for **https://github.com/HiwonderK12/DaDabitV2** in **Extensions** and add **dadabitv2**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="common_img" style="width:1000px;">
 
 2. Principles:
 
@@ -646,9 +644,9 @@ Connect the micro:bit board to the computer using a USB data cable and download 
 
    - Block Combination
 
-     <img src="../_static/media/chapter_3/section_2/media/image46.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_2/media/image46.png" class="common_img" style="width:500px;">
 
-     <img src="../_static/media/chapter_3/section_2/media/image47.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_2/media/image47.png" class="common_img" style="width:500px;">
 
 #### 3.2.2.3 Device Pairing and Program Downloading
 
@@ -658,29 +656,29 @@ Connect the micro:bit board to the computer using a USB data cable and download 
 
    - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
    - Click **Next** in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
    - Click **Pair** and select the device shown in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
 3. **Download**:
 
    - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
    - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
 4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
@@ -690,7 +688,7 @@ Connect the micro:bit board to the computer using a USB data cable and download 
 
 ### 3.2.3 Motor Control
 
-<img src="../_static/media/chapter_3/section_2/media/image2.png" class="inline-icon" style="width:500px;">
+<img src="../_static/media/chapter_3/section_2/media/image2.png" class="common_img" style="width:500px;">
 
 #### 3.2.3.1 Learning Objectives
 
@@ -704,11 +702,11 @@ Connect the micro:bit board to the computer using a USB data cable and download 
 
    - Click **Extensions**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="common_img" style="width:1000px;">
 
    - Search for **https://github.com/HiwonderK12/DaDabitV2** in **Extensions** and add **dadabitv2**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="common_img" style="width:1000px;">
 
 2. Principles:
 
@@ -726,7 +724,7 @@ Connect the micro:bit board to the computer using a USB data cable and download 
 
    - Block Combination
 
-     <img src="../_static/media/chapter_3/section_2/media/image53.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_2/media/image53.png" class="common_img" style="width:500px;">
 
 #### 3.2.3.3 Device Pairing and Program Downloading
 
@@ -736,29 +734,29 @@ Connect the micro:bit board to the computer using a USB data cable and download 
 
    - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
    - Click **Next** in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
    - Click **Pair** and select the device shown in the pop-up window.
 
-     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+     <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
 3. **Download**:
 
    - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
    - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
 4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
@@ -770,7 +768,7 @@ Once the program is downloaded and the board is powered on, pressing the corresp
 
 ### 3.3.1 Smart Barrier
 
-<img src="../_static/media/chapter_3/section_3/subsection_1/media/image.png" class="inline-icon" style="width:500px;">
+<img src="../_static/media/chapter_3/section_3/subsection_1/media/image.png" class="common_img" style="width:500px;">
 
 #### 3.3.1.1 Learning Objectives
 
@@ -787,13 +785,13 @@ Connect the servo to port S2 on the micro:bit expansion board, ensuring the oran
 
 As shown below:
 
-<img src="../_static/media/chapter_3/section_3/subsection_1/media/image11.png" class="inline-icon" style="width:700px;">
+<img src="../_static/media/chapter_3/section_3/subsection_1/media/image11.png" class="common_img" style="width:700px;">
 
 > [!NOTE]
 >
 > **When performing a program related to the servo for the first time, remove the parts from the servo, and upload the program to the micro:bit. Then, turn on the power switch of the expansion board, wait for the servo to rotate to the initial position of 0 degrees, and reinstall the parts. If the servo has already been reset, this step can be skipped.**
 
-<img src="../_static/media/chapter_3/section_3/subsection_1/media/image12.png" class="inline-icon" style="width:300px;">
+<img src="../_static/media/chapter_3/section_3/subsection_1/media/image12.png" class="common_img" style="width:300px;">
 
 #### 3.3.1.4 Programming
 
@@ -801,11 +799,11 @@ As shown below:
 
    - Click **Extensions**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="common_img" style="width:1000px;">
 
    - Search for **https://github.com/HiwonderK12/DaDabitV2** in **Extensions** and add **dadabitv2**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="common_img" style="width:1000px;">
 
 2. Principles:
 
@@ -823,7 +821,7 @@ As shown below:
 
    * Block Combination
 
-     <img src="../_static/media/chapter_3/section_3/subsection_1/media/image1.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_3/subsection_1/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
@@ -833,41 +831,41 @@ As shown below:
 
       - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
       - Click **Next** in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
       - Click **Pair** and select the device shown in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
    3. **Download**:
 
       - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
       - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
    4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
 #### 3.3.1.5 Demo
 
-<img src="../_static/media/chapter_3/section_3/subsection_1/media/image100.gif" class="inline-icon" style="width:600px;">
+<img src="../_static/media/chapter_3/section_3/subsection_1/media/image100.gif" class="common_img" style="width:600px;">
 
 ---
 
 ### 3.3.2 Smart Fan
 
-<img src="../_static/media/chapter_3/section_3/subsection_2/media/image.png" class="inline-icon" style="width:500px;">
+<img src="../_static/media/chapter_3/section_3/subsection_2/media/image.png" class="common_img" style="width:500px;">
 
 #### 3.3.2.1 Learning Objectives
 
@@ -884,7 +882,7 @@ Connect the motor to port S1 on the micro:bit expansion board, ensuring the oran
 
 As shown below:
 
-<img src="../_static/media/chapter_3/section_3/subsection_2/media/image11.png" class="inline-icon" style="width:700px;">
+<img src="../_static/media/chapter_3/section_3/subsection_2/media/image11.png" class="common_img" style="width:700px;">
 
 #### 3.3.2.4 Programming
 
@@ -892,11 +890,11 @@ As shown below:
 
    - Click **Extensions**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="common_img" style="width:1000px;">
 
    - Search for **https://github.com/HiwonderK12/DaDabitV2** in **Extensions** and add **dadabitv2**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="common_img" style="width:1000px;">
 
 2. Principles:
 
@@ -914,7 +912,7 @@ As shown below:
 
    * Block Combination
 
-     <img src="../_static/media/chapter_3/section_3/subsection_2/media/image1.png" class="inline-icon" style="width:550px;">
+     <img src="../_static/media/chapter_3/section_3/subsection_2/media/image1.png" class="common_img" style="width:550px;">
 
 4. Device Pairing and Program Downloading
 
@@ -924,41 +922,41 @@ As shown below:
 
       - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
       - Click **Next** in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
       - Click **Pair** and select the device shown in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
    3. **Download**:
 
       - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
       - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
    4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
 #### 3.3.2.5 Demo
 
-<img src="../_static/media/chapter_3/section_3/subsection_2/media/image100.gif" class="inline-icon" style="width:600px;">
+<img src="../_static/media/chapter_3/section_3/subsection_2/media/image100.gif" class="common_img" style="width:600px;">
 
 ---
 
 ### 3.3.3 Face-Changing Bot
 
-<img src="../_static/media/chapter_3/section_3/subsection_3/media/image.png" class="inline-icon" style="width:500px;">
+<img src="../_static/media/chapter_3/section_3/subsection_3/media/image.png" class="common_img" style="width:500px;">
 
 #### 3.3.3.1 Learning Objectives
 
@@ -975,13 +973,13 @@ Connect the servo to port S1 on the micro:bit expansion board, ensuring the oran
 
 As shown below:
 
-<img src="../_static/media/chapter_3/section_3/subsection_3/media/image11.png" class="inline-icon" style="width:700px;">
+<img src="../_static/media/chapter_3/section_3/subsection_3/media/image11.png" class="common_img" style="width:700px;">
 
 > [!NOTE]
 >
 > **When performing a program related to the servo for the first time, remove the parts from the servo, and upload the program to the micro:bit. Then, turn on the power switch of the expansion board, wait for the servo to rotate to the initial position of 0 degrees, and reinstall the parts. If the servo has already been reset, this step can be skipped.**
 
-<img src="../_static/media/chapter_3/section_3/subsection_3/media/image12.png" class="inline-icon" style="width:300px;">
+<img src="../_static/media/chapter_3/section_3/subsection_3/media/image12.png" class="common_img" style="width:300px;">
 
 #### 3.3.3.4 Programming
 
@@ -989,11 +987,11 @@ As shown below:
 
    - Click **Extensions**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="common_img" style="width:1000px;">
 
    - Search for **https://github.com/HiwonderK12/DaDabitV2** in **Extensions** and add **dadabitv2**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="common_img" style="width:1000px;">
 
 2. Principles:
 
@@ -1012,7 +1010,7 @@ As shown below:
 
    * Block Combination
 
-     <img src="../_static/media/chapter_3/section_3/subsection_3/media/image1.png" class="inline-icon" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_3/subsection_3/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
@@ -1022,41 +1020,41 @@ As shown below:
 
       - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
       - Click **Next** in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
       - Click **Pair** and select the device shown in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
    3. **Download**:
 
       - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
       - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
    4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
 #### 3.3.3.5 Demo
 
-<img src="../_static/media/chapter_3/section_3/subsection_3/media/image100.gif" class="inline-icon" style="width:600px;">
+<img src="../_static/media/chapter_3/section_3/subsection_3/media/image100.gif" class="common_img" style="width:600px;">
 
 ---
 
 ### 3.3.4 Automated Wiper
 
-<img src="../_static/media/chapter_3/section_3/subsection_4/media/image.png" class="inline-icon" style="width:500px;">
+<img src="../_static/media/chapter_3/section_3/subsection_4/media/image.png" class="common_img" style="width:500px;">
 
 #### 3.3.4.1 Learning Objectives
 
@@ -1073,7 +1071,7 @@ Connect the motor to port S1 on the micro:bit expansion board, ensuring the oran
 
 As shown below:
 
-<img src="../_static/media/chapter_3/section_3/subsection_4/media/image11.png" class="inline-icon" style="width:700px;">
+<img src="../_static/media/chapter_3/section_3/subsection_4/media/image11.png" class="common_img" style="width:700px;">
 
 #### 3.3.4.4 Programming
 
@@ -1081,11 +1079,11 @@ As shown below:
 
    - Click **Extensions**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="common_img" style="width:1000px;">
 
    - Search for **https://github.com/HiwonderK12/DaDabitV2** in **Extensions** and add **dadabitv2**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="common_img" style="width:1000px;">
 
 2. Principles:
 
@@ -1103,7 +1101,7 @@ As shown below:
 
    * Block Combination
 
-     <img src="../_static/media/chapter_3/section_3/subsection_4/media/image1.png" class="inline-icon" style="width:550px;">
+     <img src="../_static/media/chapter_3/section_3/subsection_4/media/image1.png" class="common_img" style="width:550px;">
 
 4. Device Pairing and Program Downloading
 
@@ -1113,41 +1111,41 @@ As shown below:
 
       - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
       - Click **Next** in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
       - Click **Pair** and select the device shown in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
    3. **Download**:
 
       - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
       - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
    4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
 #### 3.3.4.5 Demo
 
-<img src="../_static/media/chapter_3/section_3/subsection_4/media/image100.gif" class="inline-icon" style="width:600px;">
+<img src="../_static/media/chapter_3/section_3/subsection_4/media/image100.gif" class="common_img" style="width:600px;">
 
 ---
 
 ### 3.3.5 Rocking Airplane
 
-<img src="../_static/media/chapter_3/section_3/subsection_5/media/image.png" class="inline-icon" style="width:500px;">
+<img src="../_static/media/chapter_3/section_3/subsection_5/media/image.png" class="common_img" style="width:500px;">
 
 #### 3.3.5.1 Learning Objectives
 
@@ -1164,7 +1162,7 @@ Connect the motor to port S1 on the micro:bit expansion board, ensuring the oran
 
 As shown below:
 
-<img src="../_static/media/chapter_3/section_3/subsection_5/media/image11.png" class="inline-icon" style="width:700px;">
+<img src="../_static/media/chapter_3/section_3/subsection_5/media/image11.png" class="common_img" style="width:700px;">
 
 #### 3.3.5.4 Programming
 
@@ -1172,11 +1170,11 @@ As shown below:
 
    - Click **Extensions**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="common_img" style="width:1000px;">
 
    - Search for **https://github.com/HiwonderK12/DaDabitV2** in **Extensions** and add **dadabitv2**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="common_img" style="width:1000px;">
 
 2. Principles:
 
@@ -1194,7 +1192,7 @@ As shown below:
 
    * Block Combination
 
-     <img src="../_static/media/chapter_3/section_3/subsection_5/media/image1.png" class="inline-icon" style="width:550px;">
+     <img src="../_static/media/chapter_3/section_3/subsection_5/media/image1.png" class="common_img" style="width:550px;">
 
 4. Device Pairing and Program Downloading
 
@@ -1204,41 +1202,41 @@ As shown below:
 
       - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
       - Click **Next** in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
       - Click **Pair** and select the device shown in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
    3. **Download**:
 
       - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
       - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
    4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
 #### 3.3.5.5 Demo
 
-<img src="../_static/media/chapter_3/section_3/subsection_5/media/image100.gif" class="inline-icon" style="width:600px;">
+<img src="../_static/media/chapter_3/section_3/subsection_5/media/image100.gif" class="common_img" style="width:600px;">
 
 ---
 
 ### 3.3.6 Catapult
 
-<img src="../_static/media/chapter_3/section_3/subsection_6/media/image.png" class="inline-icon" style="width:500px;">
+<img src="../_static/media/chapter_3/section_3/subsection_6/media/image.png" class="common_img" style="width:500px;">
 
 #### 3.3.6.1 Learning Objectives
 
@@ -1255,13 +1253,13 @@ Connect the servo to port S1 on the micro:bit expansion board, ensuring the oran
 
 As shown below:
 
-<img src="../_static/media/chapter_3/section_3/subsection_6/media/image11.png" class="inline-icon" style="width:700px;">
+<img src="../_static/media/chapter_3/section_3/subsection_6/media/image11.png" class="common_img" style="width:700px;">
 
 > [!NOTE]
 >
 > **When performing a program related to the servo for the first time, remove the parts from the servo, and upload the program to the micro:bit. Then, turn on the power switch of the expansion board, wait for the servo to rotate to the initial position of 50 degrees, and reinstall the parts. If the servo has already been reset, this step can be skipped.**
 
-<img src="../_static/media/chapter_3/section_3/subsection_6/media/image12.png" class="inline-icon" style="width:300px;">
+<img src="../_static/media/chapter_3/section_3/subsection_6/media/image12.png" class="common_img" style="width:300px;">
 
 #### 3.3.6.4 Programming
 
@@ -1269,11 +1267,11 @@ As shown below:
 
    - Click **Extensions**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="common_img" style="width:1000px;">
 
    - Search for **https://github.com/HiwonderK12/DaDabitV2** in **Extensions** and add **dadabitv2**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="common_img" style="width:1000px;">
 
 2. Principles:
 
@@ -1291,7 +1289,7 @@ As shown below:
 
    * Block Combination
 
-     <img src="../_static/media/chapter_3/section_3/subsection_6/media/image1.png" class="inline-icon" style="width:550px;">
+     <img src="../_static/media/chapter_3/section_3/subsection_6/media/image1.png" class="common_img" style="width:550px;">
 
 4. Device Pairing and Program Downloading
 
@@ -1301,41 +1299,41 @@ As shown below:
 
       - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
       - Click **Next** in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
       - Click **Pair** and select the device shown in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
    3. **Download**:
 
       - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
       - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
    4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
 #### 3.3.6.5 Demo
 
-<img src="../_static/media/chapter_3/section_3/subsection_6/media/image100.gif" class="inline-icon" style="width:600px;">
+<img src="../_static/media/chapter_3/section_3/subsection_6/media/image100.gif" class="common_img" style="width:600px;">
 
 ---
 
 ### 3.3.7 Smart Swing
 
-<img src="../_static/media/chapter_3/section_3/subsection_7/media/image.png" class="inline-icon" style="width:500px;">
+<img src="../_static/media/chapter_3/section_3/subsection_7/media/image.png" class="common_img" style="width:500px;">
 
 #### 3.3.7.1 Learning Objectives
 
@@ -1352,7 +1350,7 @@ Connect the motor to port S1 on the micro:bit expansion board, ensuring the oran
 
 As shown below:
 
-<img src="../_static/media/chapter_3/section_3/subsection_7/media/image11.png" class="inline-icon" style="width:700px;">
+<img src="../_static/media/chapter_3/section_3/subsection_7/media/image11.png" class="common_img" style="width:700px;">
 
 #### 3.3.7.4 Programming
 
@@ -1360,11 +1358,11 @@ As shown below:
 
    - Click **Extensions**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="common_img" style="width:1000px;">
 
    - Search for **https://github.com/HiwonderK12/DaDabitV2** in **Extensions** and add **dadabitv2**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="common_img" style="width:1000px;">
 
 2. Principles:
 
@@ -1382,7 +1380,7 @@ As shown below:
 
    * Block Combination
 
-     <img src="../_static/media/chapter_3/section_3/subsection_7/media/image1.png" class="inline-icon" style="width:550px;">
+     <img src="../_static/media/chapter_3/section_3/subsection_7/media/image1.png" class="common_img" style="width:550px;">
 
 4. Device Pairing and Program Downloading
 
@@ -1392,41 +1390,41 @@ As shown below:
 
       - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
       - Click **Next** in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
       - Click **Pair** and select the device shown in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
    3. **Download**:
 
       - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
       - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
    4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
 #### 3.3.7.5 Demo
 
-<img src="../_static/media/chapter_3/section_3/subsection_7/media/image100.gif" class="inline-icon" style="width:600px;">
+<img src="../_static/media/chapter_3/section_3/subsection_7/media/image100.gif" class="common_img" style="width:600px;">
 
 ---
 
 ### 3.3.8 Smart Seesaw
 
-<img src="../_static/media/chapter_3/section_3/subsection_8/media/image.png" class="inline-icon" style="width:500px;">
+<img src="../_static/media/chapter_3/section_3/subsection_8/media/image.png" class="common_img" style="width:500px;">
 
 #### 3.3.8.1 Learning Objectives
 
@@ -1443,7 +1441,7 @@ Connect the motor to port S1 on the micro:bit expansion board, ensuring the oran
 
 As shown below:
 
-<img src="../_static/media/chapter_3/section_3/subsection_8/media/image11.png" class="inline-icon" style="width:700px;">
+<img src="../_static/media/chapter_3/section_3/subsection_8/media/image11.png" class="common_img" style="width:700px;">
 
 #### 3.3.8.4 Programming
 
@@ -1451,11 +1449,11 @@ As shown below:
 
    - Click **Extensions**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="common_img" style="width:1000px;">
 
    - Search for **https://github.com/HiwonderK12/DaDabitV2** in **Extensions** and add **dadabitv2**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="common_img" style="width:1000px;">
 
 2. Principles:
 
@@ -1473,7 +1471,7 @@ As shown below:
 
    * Block Combination
 
-     <img src="../_static/media/chapter_3/section_3/subsection_8/media/image1.png" class="inline-icon" style="width:550px;">
+     <img src="../_static/media/chapter_3/section_3/subsection_8/media/image1.png" class="common_img" style="width:550px;">
 
 4. Device Pairing and Program Downloading
 
@@ -1483,41 +1481,41 @@ As shown below:
 
       - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
       - Click **Next** in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
       - Click **Pair** and select the device shown in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
    3. **Download**:
 
       - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
       - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
    4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
 #### 3.3.8.5 Demo
 
-<img src="../_static/media/chapter_3/section_3/subsection_8/media/image100.gif" class="inline-icon" style="width:600px;">
+<img src="../_static/media/chapter_3/section_3/subsection_8/media/image100.gif" class="common_img" style="width:600px;">
 
 ---
 
 ### 3.3.9 Carousel
 
-<img src="../_static/media/chapter_3/section_3/subsection_9/media/image.png" class="inline-icon" style="width:500px;">
+<img src="../_static/media/chapter_3/section_3/subsection_9/media/image.png" class="common_img" style="width:500px;">
 
 #### 3.3.9.1 Learning Objectives
 
@@ -1534,7 +1532,7 @@ Connect the motor to port S1 on the micro:bit expansion board, ensuring the oran
 
 As shown below:
 
-<img src="../_static/media/chapter_3/section_3/subsection_9/media/image11.png" class="inline-icon" style="width:700px;">
+<img src="../_static/media/chapter_3/section_3/subsection_9/media/image11.png" class="common_img" style="width:700px;">
 
 #### 3.3.9.4 Programming
 
@@ -1542,11 +1540,11 @@ As shown below:
 
    - Click **Extensions**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="common_img" style="width:1000px;">
 
    - Search for **https://github.com/HiwonderK12/DaDabitV2** in **Extensions** and add **dadabitv2**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="common_img" style="width:1000px;">
 
 2. Principles:
 
@@ -1564,7 +1562,7 @@ As shown below:
 
    * Block Combination
 
-     <img src="../_static/media/chapter_3/section_3/subsection_9/media/image1.png" class="inline-icon" style="width:550px;">
+     <img src="../_static/media/chapter_3/section_3/subsection_9/media/image1.png" class="common_img" style="width:550px;">
 
 4. Device Pairing and Program Downloading
 
@@ -1574,41 +1572,41 @@ As shown below:
 
       - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
       - Click **Next** in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
       - Click **Pair** and select the device shown in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
    3. **Download**:
 
       - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
       - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
    4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
 #### 3.3.9.5 Demo
 
-<img src="../_static/media/chapter_3/section_3/subsection_9/media/image100.gif" class="inline-icon" style="width:600px;">
+<img src="../_static/media/chapter_3/section_3/subsection_9/media/image100.gif" class="common_img" style="width:600px;">
 
 ---
 
 ### 3.3.10 Grinding Bot
 
-<img src="../_static/media/chapter_3/section_3/subsection_10/media/image.png" class="inline-icon" style="width:500px;">
+<img src="../_static/media/chapter_3/section_3/subsection_10/media/image.png" class="common_img" style="width:500px;">
 
 #### 3.3.10.1 Learning Objectives
 
@@ -1625,7 +1623,7 @@ Connect the motor to port S1 on the micro:bit expansion board, ensuring the oran
 
 As shown below:
 
-<img src="../_static/media/chapter_3/section_3/subsection_10/media/image11.png" class="inline-icon" style="width:700px;">
+<img src="../_static/media/chapter_3/section_3/subsection_10/media/image11.png" class="common_img" style="width:700px;">
 
 #### 3.3.10.4 Programming
 
@@ -1633,11 +1631,11 @@ As shown below:
 
    - Click **Extensions**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="common_img" style="width:1000px;">
 
    - Search for **https://github.com/HiwonderK12/DaDabitV2** in **Extensions** and add **dadabitv2**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="common_img" style="width:1000px;">
 
 2. Principles:
 
@@ -1655,7 +1653,7 @@ As shown below:
 
    * Block Combination
 
-     <img src="../_static/media/chapter_3/section_3/subsection_10/media/image1.png" class="inline-icon" style="width:550px;">
+     <img src="../_static/media/chapter_3/section_3/subsection_10/media/image1.png" class="common_img" style="width:550px;">
 
 4. Device Pairing and Program Downloading
 
@@ -1665,41 +1663,41 @@ As shown below:
 
       - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
       - Click **Next** in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
       - Click **Pair** and select the device shown in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
    3. **Download**:
 
       - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
       - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
    4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
 #### 3.3.10.5 Demo
 
-<img src="../_static/media/chapter_3/section_3/subsection_10/media/image100.gif" class="inline-icon" style="width:600px;">
+<img src="../_static/media/chapter_3/section_3/subsection_10/media/image100.gif" class="common_img" style="width:600px;">
 
 ---
 
 ### 3.3.11 Weightlifter
 
-<img src="../_static/media/chapter_3/section_3/subsection_11/media/image.png" class="inline-icon" style="width:500px;">
+<img src="../_static/media/chapter_3/section_3/subsection_11/media/image.png" class="common_img" style="width:500px;">
 
 #### 3.3.11.1 Learning Objectives
 
@@ -1716,7 +1714,7 @@ Connect the motor to port S4 on the micro:bit expansion board, ensuring the oran
 
 As shown below:
 
-<img src="../_static/media/chapter_3/section_3/subsection_11/media/image11.png" class="inline-icon" style="width:700px;">
+<img src="../_static/media/chapter_3/section_3/subsection_11/media/image11.png" class="common_img" style="width:700px;">
 
 #### 3.3.11.4 Programming
 
@@ -1724,11 +1722,11 @@ As shown below:
 
    - Click **Extensions**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="common_img" style="width:1000px;">
 
    - Search for **https://github.com/HiwonderK12/DaDabitV2** in **Extensions** and add **dadabitv2**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="common_img" style="width:1000px;">
 
 2. Principles:
 
@@ -1746,7 +1744,7 @@ As shown below:
 
    * Block Combination
 
-     <img src="../_static/media/chapter_3/section_3/subsection_11/media/image1.png" class="inline-icon" style="width:550px;">
+     <img src="../_static/media/chapter_3/section_3/subsection_11/media/image1.png" class="common_img" style="width:550px;">
 
 4. Device Pairing and Program Downloading
 
@@ -1756,41 +1754,41 @@ As shown below:
 
       - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
       - Click **Next** in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
       - Click **Pair** and select the device shown in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
    3. **Download**:
 
       - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
       - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
    4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
 #### 3.3.11.5 Demo
 
-<img src="../_static/media/chapter_3/section_3/subsection_11/media/image100.gif" class="inline-icon" style="width:600px;">
+<img src="../_static/media/chapter_3/section_3/subsection_11/media/image100.gif" class="common_img" style="width:600px;">
 
 ---
 
 ### 3.3.12 Twist Dancer
 
-<img src="../_static/media/chapter_3/section_3/subsection_12/media/image.png" class="inline-icon" style="width:500px;">
+<img src="../_static/media/chapter_3/section_3/subsection_12/media/image.png" class="common_img" style="width:500px;">
 
 #### 3.3.12.1 Learning Objectives
 
@@ -1807,7 +1805,7 @@ Connect the motor to port S1 on the micro:bit expansion board, ensuring the oran
 
 As shown below:
 
-<img src="../_static/media/chapter_3/section_3/subsection_12/media/image11.png" class="inline-icon" style="width:700px;">
+<img src="../_static/media/chapter_3/section_3/subsection_12/media/image11.png" class="common_img" style="width:700px;">
 
 #### 3.3.12.4 Programming
 
@@ -1815,11 +1813,11 @@ As shown below:
 
    - Click **Extensions**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image11.png" class="common_img" style="width:1000px;">
 
    - Search for **https://github.com/HiwonderK12/DaDabitV2** in **Extensions** and add **dadabitv2**.
 
-     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="inline-icon" style="width:1000px;">
+     <img src="../_static/media/chapter_3/section_2/media/image12.png" class="common_img" style="width:1000px;">
 
 2. Principles:
 
@@ -1837,7 +1835,7 @@ As shown below:
 
    * Block Combination
 
-     <img src="../_static/media/chapter_3/section_3/subsection_12/media/image1.png" class="inline-icon" style="width:550px;">
+     <img src="../_static/media/chapter_3/section_3/subsection_12/media/image1.png" class="common_img" style="width:550px;">
 
 4. Device Pairing and Program Downloading
 
@@ -1847,32 +1845,32 @@ As shown below:
 
       - When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect Device** from the options.
 
-        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image12.png" class="common_img" style="width:600px;">
 
       - Click **Next** in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image13.png" class="common_img" style="width:600px;">
 
       - Click **Pair** and select the device shown in the pop-up window.
 
-        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image14.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image15.png" class="common_img" style="width:600px;">
 
-        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="inline-icon" style="width:600px;">
+        <img src="../_static/media/chapter_3/section_1/media/image16.png" class="common_img" style="width:600px;">
 
    3. **Download**:
 
       - After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image17.png" class="common_img" style="width:500px;">
 
       - Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="inline-icon" style="width:500px;">
+        <img src="../_static/media/chapter_3/section_1/media/image18.png" class="common_img" style="width:500px;">
 
    4. **Powering On**: The micro:bit automatically runs the program when powered on to test the functionality.
 
 #### 3.3.12.5 Demo
 
-<img src="../_static/media/chapter_3/section_3/subsection_12/media/image100.gif" class="inline-icon" style="width:600px;">
+<img src="../_static/media/chapter_3/section_3/subsection_12/media/image100.gif" class="common_img" style="width:600px;">

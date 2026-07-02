@@ -1,6 +1,4 @@
-# 1. Kit Overview{#DadaBit}
-
-[TOC]
+# 1. Kit Overview
 
 ## 1.1 Product Introduction
 

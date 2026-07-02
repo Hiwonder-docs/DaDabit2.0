@@ -1,7 +1,5 @@
 # 2. Preparation
 
-[TOC]
-
 ## 2.1 Get to Know the micro:bit Board
 
 ### 2.1.1 What is micro:bit?
@@ -10,19 +8,19 @@ The micro:bit is a microcomputer designed for youth programming education, led b
 
 The micro:bit features many open-source libraries and interesting solutions, which can be viewed on the website:
 
-https://makecode.microbit.org/
+[https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-<img src="../_static/media/chapter_2/section_1/media/image.png" class="inline-icon" style="width:1000px;">
+<img src="../_static/media/chapter_2/section_1/media/image.png" class="common_img" style="width:800px;">
 
 ### 2.1.2 micro:bit Interface Overview
 
 As shown in the following figure, it consists of onboard modules such as an acceleration sensor, programmable buttons, pins, an LED dot matrix, USB, Bluetooth, radio, and an electronic compass.
 
-<img src="../_static/media/chapter_2/section_1/media/image1.png" class="inline-icon" style="width:900px;">
+<img src="../_static/media/chapter_2/section_1/media/image1.png" class="common_img" style="width:900px;">
 
 ### 2.1.3 micro:bit Pinout
 
-<img src="../_static/media/chapter_2/section_1/media/image2.png" class="inline-icon" style="width:300px;">
+<img src="../_static/media/chapter_2/section_1/media/image2.png" class="common_img" style="width:300px;">
 
 ### 2.1.4 Specifications
 
@@ -40,7 +38,7 @@ As shown in the following figure, it consists of onboard modules such as an acce
 
 For the programming environment, the BBC provides an online programming website at https://microbit.org/code/, which includes the easy-to-use graphical programming tool MakeCode.
 
-<img src="../_static/media/chapter_2/section_1/media/image3.png" class="inline-icon" style="width:1000px;">
+<img src="../_static/media/chapter_2/section_1/media/image3.png" class="common_img" style="width:800px;">
 
 ## 2.2 Introduction to the micro:bit Expansion Board
 
@@ -48,11 +46,11 @@ For the programming environment, the BBC provides an online programming website 
 
 This is an intelligent controller built around micro:bit and supporting both block-based programming and Python programming. It is enclosed in a PC plastic housing and integrates onboard PWM servo ports, motor ports, programmable buttons, a buzzer, and other electronic modules. Multiple sensor ports are also reserved for strong expandability. All ports use a unified 4-pin anti-reverse connector design, making it compatible with the full Hiwonder sensor lineup while remaining convenient and safe to use.
 
-<img src="../_static/media/chapter_2/section_2/media/image.png" class="inline-icon" style="width:400px;">
+<img src="../_static/media/chapter_2/section_2/media/image.png" class="common_img" style="width:400px;">
 
 ### 2.2.2 Port Overview
 
-<img src="../_static/media/chapter_2/section_2/media/image1.png" class="inline-icon" style="width:700px;">
+<img src="../_static/media/chapter_2/section_2/media/image1.png" class="common_img" style="width:700px;">
 
 ### 2.2.3 Specifications
 
@@ -73,17 +71,17 @@ This is an intelligent controller built around micro:bit and supporting both blo
 
 The micro:bit does not require any IDE installation. Programming can be performed simply by opening the website https://makecode.microbit.org/ in a browser.
 
-<img src="../_static/media/chapter_2/section_3/media/image.png" class="inline-icon" style="width:1000px;">
+<img src="../_static/media/chapter_2/section_3/media/image.png" class="common_img" style="width:800px;">
 
 ### 2.3.2 IDE Settings and Toolbar Overview
 
 To create a project, click **New Project** and enter the project name.
 
-<img src="../_static/media/chapter_2/section_3/media/image1.png" class="inline-icon" style="width:1000px;">
+<img src="../_static/media/chapter_2/section_3/media/image1.png" class="common_img" style="width:800px;">
 
 After entering the main interface, the layout can be divided into the following sections, as shown below:
 
-<img src="../_static/media/chapter_2/section_3/media/image2.png" class="inline-icon" style="width:1000px;">
+<img src="../_static/media/chapter_2/section_3/media/image2.png" class="common_img" style="width:800px;">
 
 | Section | Function |
 | :---: | :---: |
@@ -95,33 +93,33 @@ After entering the main interface, the layout can be divided into the following 
 
 First, create a simple program by dragging the **show icon** block from **Basic** into the **forever** block.
 
-<img src="../_static/media/chapter_2/section_3/media/image3.png" class="inline-icon" style="width:1000px;">
+<img src="../_static/media/chapter_2/section_3/media/image3.png" class="common_img" style="width:800px;">
 
 ### 2.3.4 Downloading Programs
 
 1. When connecting the device for the first time, pair the device. Once connected, the browser will remember the connected device. Click the **...** button next to **Download**, and select **Connect device** from the options.
 
-   <img src="../_static/media/chapter_2/section_3/media/image4.png" class="inline-icon" style="width:600px;">
+   <img src="../_static/media/chapter_2/section_3/media/image4.png" class="common_img" style="width:600px;">
 
 2. Click **Next** in the pop-up window.
 
-   <img src="../_static/media/chapter_2/section_3/media/image5.png" class="inline-icon" style="width:600px;">
+   <img src="../_static/media/chapter_2/section_3/media/image5.png" class="common_img" style="width:600px;">
 
 3. Click **Pair** and select the device shown in the pop-up window.
 
-   <img src="../_static/media/chapter_2/section_3/media/image6.png" class="inline-icon" style="width:600px;">
+   <img src="../_static/media/chapter_2/section_3/media/image6.png" class="common_img" style="width:600px;">
 
-   <img src="../_static/media/chapter_2/section_3/media/image7.png" class="inline-icon" style="width:600px;">
+   <img src="../_static/media/chapter_2/section_3/media/image7.png" class="common_img" style="width:600px;">
 
-   <img src="../_static/media/chapter_2/section_3/media/image8.png" class="inline-icon" style="width:600px;">
+   <img src="../_static/media/chapter_2/section_3/media/image8.png" class="common_img" style="width:600px;">
 
 4. After the device is successfully connected, click **Download** to download the program. During the download process, the yellow indicator light near the USB port on the micro:bit board will flash rapidly. Do not disconnect or move the data cable at this time to prevent download failure.
 
-   <img src="../_static/media/chapter_2/section_3/media/image9.png" class="inline-icon" style="width:500px;">
+   <img src="../_static/media/chapter_2/section_3/media/image9.png" class="common_img" style="width:500px;">
 
 5. Once the download is complete, the indicator light will stop flashing and remain on, and a completion prompt will appear on the main programming interface.
 
-   <img src="../_static/media/chapter_2/section_3/media/image10.png" class="inline-icon" style="width:500px;">
+   <img src="../_static/media/chapter_2/section_3/media/image10.png" class="common_img" style="width:500px;">
 
 6. The micro:bit automatically runs the program when powered on.
 
@@ -133,13 +131,13 @@ For DaDabit V2.0, add the extension via https://github.com/HiwonderK12/DaDabitV2
 
 Enter the link and click the search icon or press **Enter** to search for the DaDabitV2 package. Finally, click **dadabitv2** to add the extension.
 
-<img src="../_static/media/chapter_2/section_4/media/image60.png" style="width:1000px;">
+<img src="../_static/media/chapter_2/section_4/media/image60.png" style="width:800px;">
 
-<img src="../_static/media/chapter_2/section_4/media/image61.png" style="width:1000px;">
+<img src="../_static/media/chapter_2/section_4/media/image61.png" style="width:800px;">
 
-<img src="../_static/media/chapter_2/section_4/media/image62.png" style="width:1000px;">
+<img src="../_static/media/chapter_2/section_4/media/image62.png" style="width:800px;">
 
-<img src="../_static/media/chapter_2/section_4/media/image63.png" style="width:1000px;">
+<img src="../_static/media/chapter_2/section_4/media/image63.png" style="width:800px;">
 
 ### 2.4.2 micro:bit Official Library Blocks
 
@@ -207,11 +205,12 @@ Enter the link and click the search icon or press **Enter** to search for the Da
 >
 > **Ensure that the positive and negative terminals are not reversed.**
 
-<img src="../_static/media/chapter_2/section_5/media/image.png" class="inline-icon" style="width:400px;">
+<img src="../_static/media/chapter_2/section_5/media/image.png" class="common_img" style="width:400px;">
 
 - Turn on the power switch. The power indicator light on the expansion board will turn red, indicating that the board is powered on successfully.
 
-<img src="../_static/media/chapter_2/section_5/media/image0.png" class="inline-icon" style="width:400px;">
+<img src="../_static/media/chapter_2/section_5/media/image0.png" class="common_img" style="width:400px;">
+
 > [!NOTE]
 >
 > **When powering on for the first time, charge the board through the charging port for approximately 5 seconds according to the instructions in Section 2.5.2 to activate the built-in battery protection chip. Once activated, there is no need to repeat this step unless the battery is removed.**
@@ -220,7 +219,7 @@ Enter the link and click the search icon or press **Enter** to search for the Da
 
 Connect a 5 V 2 A charger to the charging port on the micro:bit expansion board using the supplied Type-C data cable:
 
-<img src="../_static/media/chapter_2/section_5/media/image1.png" class="inline-icon" style="width:400px;">
+<img src="../_static/media/chapter_2/section_5/media/image1.png" class="common_img" style="width:400px;">
 
 ### 2.5.3 Notes
 
