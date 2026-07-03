@@ -39,18 +39,18 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_5/section_1/media/image4.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image33.png) | Plays a note of designated pitch and duration. |
-     | ![](../_static/media/chapter_5/section_1/media/image5.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image33.png) | Stops all sounds currently playing on the device. |
-     | ![](../_static/media/chapter_5/section_1/media/image6.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image35.png) | A conditional judgment block that executes different program logic branches depending on whether the condition is met. |
-     | ![](../_static/media/chapter_5/section_1/media/image7.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the detection state of the infrared obstacle avoidance sensor. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_5/section_1/media/image4.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image33.png) | Plays a note of designated pitch and duration. |
+| ![](../_static/media/chapter_5/section_1/media/image5.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image33.png) | Stops all sounds currently playing on the device. |
+| ![](../_static/media/chapter_5/section_1/media/image6.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image35.png) | A conditional judgment block that executes different program logic branches depending on whether the condition is met. |
+| ![](../_static/media/chapter_5/section_1/media/image7.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the detection state of the infrared obstacle avoidance sensor. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_5/section_1/media/image3.png" class="common_img" style="width:600px;">
+<img src="../_static/media/chapter_5/section_1/media/image3.png" class="common_img" style="width:600px;">
 
 4. Device Pairing and Program Downloading
 
@@ -129,16 +129,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_5/section_1/media/image34.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image32.png) | Detects the pressed state of button A or button B to trigger actions. |
-     | ![](../_static/media/chapter_5/section_1/media/image35.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Displays the specified numeric content on the digital tube module. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_5/section_1/media/image34.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image32.png) | Detects the pressed state of button A or button B to trigger actions. |
+| ![](../_static/media/chapter_5/section_1/media/image35.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Displays the specified numeric content on the digital tube module. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_5/section_1/media/image33.png" class="common_img" style="width:400px;">
+<img src="../_static/media/chapter_5/section_1/media/image33.png" class="common_img" style="width:400px;">
 
 4. Device Pairing and Program Downloading
 
@@ -228,16 +228,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_5/section_2/subsection_1/media/image2.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
-     | ![](../_static/media/chapter_5/section_2/subsection_1/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the distance data collected by the ultrasonic sensor in centimeters. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_5/section_2/subsection_1/media/image2.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
+| ![](../_static/media/chapter_5/section_2/subsection_1/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the distance data collected by the ultrasonic sensor in centimeters. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_5/section_2/subsection_1/media/image1.png" class="common_img" style="width:500px;">
+<img src="../_static/media/chapter_5/section_2/subsection_1/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
@@ -329,18 +329,18 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_5/section_2/subsection_2/media/image5.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image32.png) | A conditional judgment block that detects the pressed state of buttons and decides subsequent execution logic. |
-     | ![](../_static/media/chapter_5/section_2/subsection_2/media/image2.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
-     | ![](../_static/media/chapter_5/section_2/subsection_2/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Displays the specified numeric content on the digital tube module. |
-     | ![](../_static/media/chapter_5/section_2/subsection_2/media/image4.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the distance data from the ultrasonic sensor. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_5/section_2/subsection_2/media/image5.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image32.png) | A conditional judgment block that detects the pressed state of buttons and decides subsequent execution logic. |
+| ![](../_static/media/chapter_5/section_2/subsection_2/media/image2.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
+| ![](../_static/media/chapter_5/section_2/subsection_2/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Displays the specified numeric content on the digital tube module. |
+| ![](../_static/media/chapter_5/section_2/subsection_2/media/image4.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the distance data from the ultrasonic sensor. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_5/section_2/subsection_2/media/image1.png" class="common_img" style="width:500px;">
+<img src="../_static/media/chapter_5/section_2/subsection_2/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
@@ -422,16 +422,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_5/section_2/subsection_3/media/image2.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image32.png) | Reads the temperature data from the micro:bit in degrees Celsius. |
-     | ![](../_static/media/chapter_5/section_2/subsection_3/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Displays the specified numeric content on the digital tube module. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_5/section_2/subsection_3/media/image2.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image32.png) | Reads the temperature data from the micro:bit in degrees Celsius. |
+| ![](../_static/media/chapter_5/section_2/subsection_3/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Displays the specified numeric content on the digital tube module. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_5/section_2/subsection_3/media/image1.png" class="common_img" style="width:400px;">
+<img src="../_static/media/chapter_5/section_2/subsection_3/media/image1.png" class="common_img" style="width:400px;">
 
 4. Device Pairing and Program Downloading
 
@@ -515,16 +515,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_5/section_2/subsection_4/media/image2.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the detection state of the infrared obstacle avoidance sensor. |
-     | ![](../_static/media/chapter_5/section_2/subsection_4/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Displays the specified numeric content on the digital tube module. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_5/section_2/subsection_4/media/image2.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the detection state of the infrared obstacle avoidance sensor. |
+| ![](../_static/media/chapter_5/section_2/subsection_4/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Displays the specified numeric content on the digital tube module. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_5/section_2/subsection_4/media/image1.png" class="common_img" style="width:600px;">
+<img src="../_static/media/chapter_5/section_2/subsection_4/media/image1.png" class="common_img" style="width:600px;">
 
 4. Device Pairing and Program Downloading
 
@@ -614,16 +614,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_5/section_2/subsection_5/media/image2.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the detection state of the infrared obstacle avoidance sensor. |
-     | ![](../_static/media/chapter_5/section_2/subsection_5/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_5/section_2/subsection_5/media/image2.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the detection state of the infrared obstacle avoidance sensor. |
+| ![](../_static/media/chapter_5/section_2/subsection_5/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_5/section_2/subsection_5/media/image1.png" class="common_img" style="width:500px;">
+<img src="../_static/media/chapter_5/section_2/subsection_5/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
@@ -707,19 +707,19 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_5/section_2/subsection_6/media/image4.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image31.png) | Displays the specified numeric content on the device screen. |
-     | ![](../_static/media/chapter_5/section_2/subsection_6/media/image5.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image31.png) | Clears the display content on the device screen. |
-     | ![](../_static/media/chapter_5/section_2/subsection_6/media/image6.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image32.png) | Detects the pressed state of button A or button B to trigger actions. |
-     | ![](../_static/media/chapter_5/section_2/subsection_6/media/image2.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the distance data from the ultrasonic sensor. |
-     | ![](../_static/media/chapter_5/section_2/subsection_6/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified motor to run in a set direction and speed. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_5/section_2/subsection_6/media/image4.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image31.png) | Displays the specified numeric content on the device screen. |
+| ![](../_static/media/chapter_5/section_2/subsection_6/media/image5.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image31.png) | Clears the display content on the device screen. |
+| ![](../_static/media/chapter_5/section_2/subsection_6/media/image6.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image32.png) | Detects the pressed state of button A or button B to trigger actions. |
+| ![](../_static/media/chapter_5/section_2/subsection_6/media/image2.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the distance data from the ultrasonic sensor. |
+| ![](../_static/media/chapter_5/section_2/subsection_6/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified motor to run in a set direction and speed. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_5/section_2/subsection_6/media/image1.png" class="common_img" style="width:800px;">
+<img src="../_static/media/chapter_5/section_2/subsection_6/media/image1.png" class="common_img" style="width:800px;">
 
 4. Device Pairing and Program Downloading
 
@@ -801,16 +801,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_5/section_2/subsection_7/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image32.png) | Detects the pressed state of button A or button B to trigger actions. |
-     | ![](../_static/media/chapter_5/section_2/subsection_7/media/image2.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in a set direction and speed. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_5/section_2/subsection_7/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image32.png) | Detects the pressed state of button A or button B to trigger actions. |
+| ![](../_static/media/chapter_5/section_2/subsection_7/media/image2.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in a set direction and speed. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_5/section_2/subsection_7/media/image1.png" class="common_img" style="width:500px;">
+<img src="../_static/media/chapter_5/section_2/subsection_7/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
@@ -894,16 +894,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_5/section_2/subsection_8/media/image2.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified motor to run in a set direction and speed. |
-     | ![](../_static/media/chapter_5/section_2/subsection_8/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the distance data collected by the ultrasonic sensor in centimeters. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_5/section_2/subsection_8/media/image2.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified motor to run in a set direction and speed. |
+| ![](../_static/media/chapter_5/section_2/subsection_8/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the distance data collected by the ultrasonic sensor in centimeters. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_5/section_2/subsection_8/media/image1.png" class="common_img" style="width:500px;">
+<img src="../_static/media/chapter_5/section_2/subsection_8/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
@@ -987,17 +987,17 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_5/section_2/subsection_9/media/image2.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image35.png) | Conditional judgment block that decides subsequent execution logic based on the distance variable value. |
-     | ![](../_static/media/chapter_5/section_2/subsection_9/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the distance data from the ultrasonic sensor. |
-     | ![](../_static/media/chapter_5/section_2/subsection_9/media/image4.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified motor to run in a set direction and speed. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_5/section_2/subsection_9/media/image2.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image35.png) | Conditional judgment block that decides subsequent execution logic based on the distance variable value. |
+| ![](../_static/media/chapter_5/section_2/subsection_9/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the distance data from the ultrasonic sensor. |
+| ![](../_static/media/chapter_5/section_2/subsection_9/media/image4.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified motor to run in a set direction and speed. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_5/section_2/subsection_9/media/image1.png" class="common_img" style="width:500px;">
+<img src="../_static/media/chapter_5/section_2/subsection_9/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
@@ -1089,18 +1089,18 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_5/section_2/subsection_10/media/image6.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image32.png) | Detects the pressed state of button A or button B to trigger actions. |
-     | ![](../_static/media/chapter_5/section_2/subsection_10/media/image7.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image34.png) | Executes internal program blocks when the specified condition is false. |
-     | ![](../_static/media/chapter_5/section_2/subsection_10/media/image8.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image35.png) | Performs a logical NOT operation on the input condition to invert its Boolean value. |
-     | ![](../_static/media/chapter_5/section_2/subsection_10/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
-     | ![](../_static/media/chapter_5/section_2/subsection_10/media/image4.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified motor to run in a set direction and speed. |
-     | ![](../_static/media/chapter_5/section_2/subsection_10/media/image5.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the detection state of the 4-channel line follower sensor. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_5/section_2/subsection_10/media/image6.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image32.png) | Detects the pressed state of button A or button B to trigger actions. |
+| ![](../_static/media/chapter_5/section_2/subsection_10/media/image7.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image34.png) | Executes internal program blocks when the specified condition is false. |
+| ![](../_static/media/chapter_5/section_2/subsection_10/media/image8.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image35.png) | Performs a logical NOT operation on the input condition to invert its Boolean value. |
+| ![](../_static/media/chapter_5/section_2/subsection_10/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
+| ![](../_static/media/chapter_5/section_2/subsection_10/media/image4.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified motor to run in a set direction and speed. |
+| ![](../_static/media/chapter_5/section_2/subsection_10/media/image5.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the detection state of the 4-channel line follower sensor. |
 
-   - Block Combination
+- Block Combination
 
      <img src="../_static/media/chapter_5/section_2/subsection_10/media/image1.png" class="common_img" style="width:550px;">
 
@@ -1198,16 +1198,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_5/section_2/subsection_11/media/image5.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image35.png) | A conditional judgment block that executes different program logic branches depending on whether the condition is met. |
-     | ![](../_static/media/chapter_5/section_2/subsection_11/media/image6.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image35.png) | Compares two values to check if the first is less than the second, returning a boolean result. |
-     | ![](../_static/media/chapter_5/section_2/subsection_11/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
-     | ![](../_static/media/chapter_5/section_2/subsection_11/media/image4.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified motor to run in a set direction and speed. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_5/section_2/subsection_11/media/image5.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image35.png) | A conditional judgment block that executes different program logic branches depending on whether the condition is met. |
+| ![](../_static/media/chapter_5/section_2/subsection_11/media/image6.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image35.png) | Compares two values to check if the first is less than the second, returning a boolean result. |
+| ![](../_static/media/chapter_5/section_2/subsection_11/media/image3.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
+| ![](../_static/media/chapter_5/section_2/subsection_11/media/image4.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified motor to run in a set direction and speed. |
 
-   - Block Combination
+- Block Combination
 
      <img src="../_static/media/chapter_5/section_2/subsection_11/media/image1.png" class="common_img" style="width:600px;">
 
@@ -1307,18 +1307,18 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_5/section_2/subsection_12/media/image4.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image35.png) | A conditional judgment block that executes different program logic branches depending on whether the condition is met. |
-     | ![](../_static/media/chapter_5/section_2/subsection_12/media/image5.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image35.png) | Compares two values to check if the first is less than the second, returning a boolean result. |
-     | ![](../_static/media/chapter_5/section_2/subsection_12/media/image6.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image35.png) | Performs a logical OR operation on two boolean conditions, returning true if at least one condition is true. |
-     | ![](../_static/media/chapter_5/section_2/subsection_12/media/image7.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
-     | ![](../_static/media/chapter_5/section_2/subsection_12/media/image8.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified motor to run in a set direction and speed. |
-     | ![](../_static/media/chapter_5/section_2/subsection_12/media/image9.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the distance data collected by the ultrasonic sensor in centimeters. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_5/section_2/subsection_12/media/image4.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image35.png) | A conditional judgment block that executes different program logic branches depending on whether the condition is met. |
+| ![](../_static/media/chapter_5/section_2/subsection_12/media/image5.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image35.png) | Compares two values to check if the first is less than the second, returning a boolean result. |
+| ![](../_static/media/chapter_5/section_2/subsection_12/media/image6.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image35.png) | Performs a logical OR operation on two boolean conditions, returning true if at least one condition is true. |
+| ![](../_static/media/chapter_5/section_2/subsection_12/media/image7.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
+| ![](../_static/media/chapter_5/section_2/subsection_12/media/image8.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Controls the specified motor to run in a set direction and speed. |
+| ![](../_static/media/chapter_5/section_2/subsection_12/media/image9.png) | ![](../_static/media/chapter_5/section_2/subsection_1/media/image38.png) | Reads the distance data collected by the ultrasonic sensor in centimeters. |
 
-   - Block Combination
+- Block Combination
 
      <img src="../_static/media/chapter_5/section_2/subsection_12/media/image1.png" class="common_img" style="width:800px;">
 

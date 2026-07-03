@@ -39,16 +39,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_4/section_1/media/image4.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the light intensity from the light sensor within a range of 0 to 100. |
-     | ![](../_static/media/chapter_4/section_1/media/image5.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image31.png) | Displays the specified text string on the device screen. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_4/section_1/media/image4.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the light intensity from the light sensor within a range of 0 to 100. |
+| ![](../_static/media/chapter_4/section_1/media/image5.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image31.png) | Displays the specified text string on the device screen. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_4/section_1/media/image3.png" class="common_img" style="width:400px;">
+<img src="../_static/media/chapter_4/section_1/media/image3.png" class="common_img" style="width:400px;">
 
 4. Device Pairing and Program Downloading
 
@@ -129,16 +129,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_4/section_1/media/image34.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the distance data from the ultrasonic sensor in centimeters. |
-     | ![](../_static/media/chapter_4/section_1/media/image5.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image31.png) | Displays the specified text string on the device screen. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_4/section_1/media/image34.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the distance data from the ultrasonic sensor in centimeters. |
+| ![](../_static/media/chapter_4/section_1/media/image5.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image31.png) | Displays the specified text string on the device screen. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_4/section_1/media/image33.png" class="common_img" style="width:400px;">
+<img src="../_static/media/chapter_4/section_1/media/image33.png" class="common_img" style="width:400px;">
 
 4. Device Pairing and Program Downloading
 
@@ -219,16 +219,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_4/section_1/media/image34.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the distance data from the ultrasonic sensor in centimeters. |
-     | ![](../_static/media/chapter_4/section_1/media/image36.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Sets the color of the glowy ultrasonic sensor RGB lights. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_4/section_1/media/image34.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the distance data from the ultrasonic sensor in centimeters. |
+| ![](../_static/media/chapter_4/section_1/media/image36.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Sets the color of the glowy ultrasonic sensor RGB lights. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_4/section_1/media/image35.png" class="common_img" style="width:400px;">
+<img src="../_static/media/chapter_4/section_1/media/image35.png" class="common_img" style="width:400px;">
 
 4. Device Pairing and Program Downloading
 
@@ -310,18 +310,18 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_4/section_2/subsection_1/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Refreshes and displays the set state of the onboard RGB light. |
-     | ![](../_static/media/chapter_4/section_2/subsection_1/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Turns off all onboard RGB lights on the expansion board. |
-     | ![](../_static/media/chapter_4/section_2/subsection_1/media/image4.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Sets the color of all onboard RGB lights to the specified color. |
-     | ![](../_static/media/chapter_4/section_2/subsection_1/media/image5.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the light intensity from the light sensor within a range of 0 to 100. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_4/section_2/subsection_1/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Refreshes and displays the set state of the onboard RGB light. |
+| ![](../_static/media/chapter_4/section_2/subsection_1/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Turns off all onboard RGB lights on the expansion board. |
+| ![](../_static/media/chapter_4/section_2/subsection_1/media/image4.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Sets the color of all onboard RGB lights to the specified color. |
+| ![](../_static/media/chapter_4/section_2/subsection_1/media/image5.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the light intensity from the light sensor within a range of 0 to 100. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_4/section_2/subsection_1/media/image1.png" class="common_img" style="width:500px;">
+<img src="../_static/media/chapter_4/section_2/subsection_1/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
@@ -403,18 +403,18 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_4/section_2/subsection_2/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the distance data from the ultrasonic sensor. |
-     | ![](../_static/media/chapter_4/section_2/subsection_2/media/image4.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Sets the light color of the glowy ultrasonic sensor to the specified color. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_4/section_2/subsection_2/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the distance data from the ultrasonic sensor. |
+| ![](../_static/media/chapter_4/section_2/subsection_2/media/image4.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Sets the light color of the glowy ultrasonic sensor to the specified color. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_4/section_2/subsection_2/media/image1.png" class="common_img" style="width:400px;">
+<img src="../_static/media/chapter_4/section_2/subsection_2/media/image1.png" class="common_img" style="width:400px;">
 
-     <img src="../_static/media/chapter_4/section_2/subsection_2/media/image2.png" class="common_img" style="width:400px;">
+<img src="../_static/media/chapter_4/section_2/subsection_2/media/image2.png" class="common_img" style="width:400px;">
 
 4. Device Pairing and Program Downloading
 
@@ -504,16 +504,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_4/section_2/subsection_3/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified LEGO 270 degree servo to rotate to the target angle within a set time. |
-     | ![](../_static/media/chapter_4/section_2/subsection_3/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the light intensity from the light sensor within a range of 0 to 100. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_4/section_2/subsection_3/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified LEGO 270 degree servo to rotate to the target angle within a set time. |
+| ![](../_static/media/chapter_4/section_2/subsection_3/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the light intensity from the light sensor within a range of 0 to 100. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_4/section_2/subsection_3/media/image1.png" class="common_img" style="width:500px;">
+<img src="../_static/media/chapter_4/section_2/subsection_3/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
@@ -601,16 +601,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_4/section_2/subsection_4/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified LEGO 270 degree servo to rotate to the target angle within a set time. |
-     | ![](../_static/media/chapter_4/section_2/subsection_4/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image32.png) | Detects the pressed state of button A or button B to trigger actions. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_4/section_2/subsection_4/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified LEGO 270 degree servo to rotate to the target angle within a set time. |
+| ![](../_static/media/chapter_4/section_2/subsection_4/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image32.png) | Detects the pressed state of button A or button B to trigger actions. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_4/section_2/subsection_4/media/image1.png" class="common_img" style="width:500px;">
+<img src="../_static/media/chapter_4/section_2/subsection_4/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
@@ -698,16 +698,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_4/section_2/subsection_5/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified LEGO 270 degree servo to rotate to the target angle within a set time. |
-     | ![](../_static/media/chapter_4/section_2/subsection_5/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image32.png) | Detects the pressed state of button A or button B to trigger actions. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_4/section_2/subsection_5/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified LEGO 270 degree servo to rotate to the target angle within a set time. |
+| ![](../_static/media/chapter_4/section_2/subsection_5/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image32.png) | Detects the pressed state of button A or button B to trigger actions. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_4/section_2/subsection_5/media/image1.png" class="common_img" style="width:500px;">
+<img src="../_static/media/chapter_4/section_2/subsection_5/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
@@ -797,16 +797,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_4/section_2/subsection_6/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the distance data collected by the ultrasonic sensor in centimeters. |
-     | ![](../_static/media/chapter_4/section_2/subsection_6/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_4/section_2/subsection_6/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the distance data collected by the ultrasonic sensor in centimeters. |
+| ![](../_static/media/chapter_4/section_2/subsection_6/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_4/section_2/subsection_6/media/image1.png" class="common_img" style="width:500px;">
+<img src="../_static/media/chapter_4/section_2/subsection_6/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
@@ -888,16 +888,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_4/section_2/subsection_7/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in a set direction and speed. |
-     | ![](../_static/media/chapter_4/section_2/subsection_7/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image32.png) | Detects the pressed state of button A or button B to trigger actions. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_4/section_2/subsection_7/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in a set direction and speed. |
+| ![](../_static/media/chapter_4/section_2/subsection_7/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image32.png) | Detects the pressed state of button A or button B to trigger actions. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_4/section_2/subsection_7/media/image1.png" class="common_img" style="width:500px;">
+<img src="../_static/media/chapter_4/section_2/subsection_7/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
@@ -979,16 +979,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_4/section_2/subsection_8/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified LEGO 360-degree servo to run in a set direction and speed. |
-     | ![](../_static/media/chapter_4/section_2/subsection_8/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image32.png) | Detects the pressed state of button A or button B to trigger actions. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_4/section_2/subsection_8/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified LEGO 360-degree servo to run in a set direction and speed. |
+| ![](../_static/media/chapter_4/section_2/subsection_8/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image32.png) | Detects the pressed state of button A or button B to trigger actions. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_4/section_2/subsection_8/media/image1.png" class="common_img" style="width:500px;">
+<img src="../_static/media/chapter_4/section_2/subsection_8/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
@@ -1072,19 +1072,19 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_4/section_2/subsection_9/media/image6.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image33.png) | Plays a note of designated pitch and duration. |
-     | ![](../_static/media/chapter_4/section_2/subsection_9/media/image5.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image35.png) | A conditional judgment block that decides subsequent execution logic based on the distance variable value. |
-     | ![](../_static/media/chapter_4/section_2/subsection_9/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the distance data from the ultrasonic sensor. |
-     | ![](../_static/media/chapter_4/section_2/subsection_9/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Sets the light color of the glowy ultrasonic sensor to the specified color. |
-     | ![](../_static/media/chapter_4/section_2/subsection_9/media/image4.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified LEGO 360-degree servo to run in a set direction and speed. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_4/section_2/subsection_9/media/image6.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image33.png) | Plays a note of designated pitch and duration. |
+| ![](../_static/media/chapter_4/section_2/subsection_9/media/image5.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image35.png) | A conditional judgment block that decides subsequent execution logic based on the distance variable value. |
+| ![](../_static/media/chapter_4/section_2/subsection_9/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the distance data from the ultrasonic sensor. |
+| ![](../_static/media/chapter_4/section_2/subsection_9/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Sets the light color of the glowy ultrasonic sensor to the specified color. |
+| ![](../_static/media/chapter_4/section_2/subsection_9/media/image4.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified LEGO 360-degree servo to run in a set direction and speed. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_4/section_2/subsection_9/media/image1.png" class="common_img" style="width:500px;">
+<img src="../_static/media/chapter_4/section_2/subsection_9/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
@@ -1168,16 +1168,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_4/section_2/subsection_10/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the distance data from the ultrasonic sensor. |
-     | ![](../_static/media/chapter_4/section_2/subsection_10/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified LEGO 360-degree servo to run in a set direction and speed. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_4/section_2/subsection_10/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the distance data from the ultrasonic sensor. |
+| ![](../_static/media/chapter_4/section_2/subsection_10/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified LEGO 360-degree servo to run in a set direction and speed. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_4/section_2/subsection_10/media/image1.png" class="common_img" style="width:500px;">
+<img src="../_static/media/chapter_4/section_2/subsection_10/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
@@ -1267,16 +1267,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_4/section_2/subsection_11/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified LEGO 270-degree servo to rotate to the target angle within a set time. |
-     | ![](../_static/media/chapter_4/section_2/subsection_11/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the light intensity from the light sensor within a range of 0 to 100. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_4/section_2/subsection_11/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified LEGO 270-degree servo to rotate to the target angle within a set time. |
+| ![](../_static/media/chapter_4/section_2/subsection_11/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Reads the light intensity from the light sensor within a range of 0 to 100. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_4/section_2/subsection_11/media/image1.png" class="common_img" style="width:500px;">
+<img src="../_static/media/chapter_4/section_2/subsection_11/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
@@ -1358,16 +1358,16 @@ As shown below:
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_4/section_2/subsection_12/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in a set direction and speed. |
-     | ![](../_static/media/chapter_4/section_2/subsection_12/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image32.png) | Detects the pressed state of button A or button B to trigger actions. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_4/section_2/subsection_12/media/image2.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in a set direction and speed. |
+| ![](../_static/media/chapter_4/section_2/subsection_12/media/image3.png) | ![](../_static/media/chapter_4/section_2/subsection_1/media/image32.png) | Detects the pressed state of button A or button B to trigger actions. |
 
-   - Block Combination
+- Block Combination
 
-     <img src="../_static/media/chapter_4/section_2/subsection_12/media/image1.png" class="common_img" style="width:500px;">
+<img src="../_static/media/chapter_4/section_2/subsection_12/media/image1.png" class="common_img" style="width:500px;">
 
 4. Device Pairing and Program Downloading
 
