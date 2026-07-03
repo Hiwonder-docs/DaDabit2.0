@@ -131,13 +131,13 @@ For DaDabit V2.0, add the extension via https://github.com/HiwonderK12/DaDabitV2
 
 Enter the link and click the search icon or press **Enter** to search for the DaDabitV2 package. Finally, click **dadabitv2** to add the extension.
 
-<img src="../_static/media/chapter_2/section_4/media/image60.png" style="width:800px;">
+<img class="common_img" src="../_static/media/chapter_2/section_4/media/image60.png" style="width:800px;">
 
-<img src="../_static/media/chapter_2/section_4/media/image61.png" style="width:800px;">
+<img class="common_img" src="../_static/media/chapter_2/section_4/media/image61.png" style="width:800px;">
 
-<img src="../_static/media/chapter_2/section_4/media/image62.png" style="width:800px;">
+<img class="common_img" src="../_static/media/chapter_2/section_4/media/image62.png" style="width:800px;">
 
-<img src="../_static/media/chapter_2/section_4/media/image63.png" style="width:800px;">
+<img class="common_img" src="../_static/media/chapter_2/section_4/media/image63.png" style="width:800px;">
 
 ### 2.4.2 micro:bit Official Library Blocks
 

@@ -237,9 +237,9 @@ To program the micro:bit buttons to perform as a music player.
 
      <img src="../_static/media/chapter_3/section_1/media/image24.1.png" class="common_img" style="width:300px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image24.2.png" class="common_img" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image24.2.png" class="common_img" style="width:400px;">
 
-     <img src="../_static/media/chapter_3/section_1/media/image24.3.png" class="common_img" style="width:500px;">
+     <img src="../_static/media/chapter_3/section_1/media/image24.3.png" class="common_img" style="width:400px;">
 
      <img src="../_static/media/chapter_3/section_1/media/image24.4.png" class="common_img" style="width:550px;">
 
@@ -777,7 +777,7 @@ Once the program is downloaded and the board is powered on, pressing the corresp
 
 #### 3.3.1.2 Assembly Guide
 
-For the building steps of the smart barrier, refer to the building guide in [6_Assembly_Manual]() for **Smart Barrier**.
+For the building steps of the smart barrier, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#smart-barrier) for **Smart Barrier**.
 
 #### 3.3.1.3 Wiring Guide
 
@@ -876,7 +876,7 @@ As shown below:
 
 #### 3.3.2.2 Assembly Guide
 
-For the building steps of the smart fan, refer to the building guide in [6_Assembly_Manual]() for **Smart Fan**.
+For the building steps of the smart fan, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#smart-fan) for **Smart Fan**.
 
 #### 3.3.2.3 Wiring Guide
 
@@ -968,7 +968,7 @@ As shown below:
 
 #### 3.3.3.2 Assembly Guide
 
-For the building steps of the face-changing bot, refer to the building guide in [6_Assembly_Manual]() for **Face-Changing Bot**.
+For the building steps of the face-changing bot, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#face-changing-bot) for **Face-Changing Bot**.
 
 #### 3.3.3.3 Wiring Guide
 
@@ -1066,7 +1066,7 @@ As shown below:
 
 #### 3.3.4.2 Assembly Guide
 
-For the building steps of the automated wiper, refer to the building guide in [6_Assembly_Manual]() for **Automated Wiper**.
+For the building steps of the automated wiper, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#automated-wiper) for **Automated Wiper**.
 
 #### 3.3.4.3 Wiring Guide
 
@@ -1157,7 +1157,7 @@ As shown below:
 
 #### 3.3.5.2 Assembly Guide
 
-For the building steps of the rocking airplane, refer to the building guide in [6_Assembly_Manual]() for **Rocking Airplane**.
+For the building steps of the rocking airplane, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#rocking-airplane) for **Rocking Airplane**.
 
 #### 3.3.5.3 Wiring Guide
 
@@ -1248,7 +1248,7 @@ As shown below:
 
 #### 3.3.6.2 Assembly Guide
 
-For the building steps of the catapult, refer to the building guide in [6_Assembly_Manual]() for **Catapult**.
+For the building steps of the catapult, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#catapult) for **Catapult**.
 
 #### 3.3.6.3 Wiring Guide
 
@@ -1345,7 +1345,7 @@ As shown below:
 
 #### 3.3.7.2 Assembly Guide
 
-For the building steps of the smart swing, refer to the building guide in [6_Assembly_Manual]() for **Smart Swing**.
+For the building steps of the smart swing, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#smart-swing) for **Smart Swing**.
 
 #### 3.3.7.3 Wiring Guide
 
@@ -1436,7 +1436,7 @@ As shown below:
 
 #### 3.3.8.2 Assembly Guide
 
-For the building steps of the smart seesaw, refer to the building guide in [6_Assembly_Manual]() for **Smart Seesaw**.
+For the building steps of the smart seesaw, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#smart-seesaw) for **Smart Seesaw**.
 
 #### 3.3.8.3 Wiring Guide
 
@@ -1527,7 +1527,7 @@ As shown below:
 
 #### 3.3.9.2 Assembly Guide
 
-For the building steps of the carousel, refer to the building guide in [6_Assembly_Manual]() for **Carousel**.
+For the building steps of the carousel, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#carousel) for **Carousel**.
 
 #### 3.3.9.3 Wiring Guide
 
@@ -1618,7 +1618,7 @@ As shown below:
 
 #### 3.3.10.2 Assembly Guide
 
-For the building steps of the grinding bot, refer to the building guide in [6_Assembly_Manual]() for **Grinding Bot**.
+For the building steps of the grinding bot, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#grinding-bot) for **Grinding Bot**.
 
 #### 3.3.10.3 Wiring Guide
 
@@ -1709,7 +1709,7 @@ As shown below:
 
 #### 3.3.11.2 Assembly Guide
 
-For the building steps of the weightlifter, refer to the building guide in [6_Assembly_Manual]() for **Weightlifter**.
+For the building steps of the weightlifter, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#weightlifter) for **Weightlifter**.
 
 #### 3.3.11.3 Wiring Guide
 
@@ -1800,7 +1800,7 @@ As shown below:
 
 #### 3.3.12.2 Assembly Guide
 
-For the building steps of the twist dancer, refer to the building guide in [6_Assembly_Manual]() for **Twist Dancer**.
+For the building steps of the twist dancer, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#twist-dancer) for **Twist Dancer**.
 
 #### 3.3.12.3 Wiring Guide
 
