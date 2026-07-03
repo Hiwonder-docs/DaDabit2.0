@@ -21,15 +21,15 @@ To switch the displayed icon by touching the logo on the micro:bit board.
 
 2. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_1/media/image51.png) | ![](../_static/media/chapter_3/section_1/media/image32.png) | Sets the trigger status of the logo. |
-     | ![](../_static/media/chapter_3/section_1/media/image52.png) | ![](../_static/media/chapter_3/section_1/media/image33.png) | Selects and plays a designated sound. |
-     | ![](../_static/media/chapter_3/section_1/media/image53.png) | ![](../_static/media/chapter_3/section_1/media/image39.png) | Scrolls an image from one side of the LED screen to the other. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_1/media/image51.png) | ![](../_static/media/chapter_3/section_1/media/image32.png) | Sets the trigger status of the logo. |
+| ![](../_static/media/chapter_3/section_1/media/image52.png) | ![](../_static/media/chapter_3/section_1/media/image33.png) | Selects and plays a designated sound. |
+| ![](../_static/media/chapter_3/section_1/media/image53.png) | ![](../_static/media/chapter_3/section_1/media/image39.png) | Scrolls an image from one side of the LED screen to the other. |
 
-   - Block Combination
+- Block Combination
 
      <img src="../_static/media/chapter_3/section_1/media/image21.png" class="common_img" style="width:700px;">
 
@@ -159,14 +159,14 @@ To program the micro:bit buttons to perform as a timer.
 
 2. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_1/media/image56.png) | ![](../_static/media/chapter_3/section_1/media/image31.png) | Displays the set number on the LED dot matrix. If it is multi-digit, it scrolls. |
-     | ![](../_static/media/chapter_3/section_1/media/image57.png) | ![](../_static/media/chapter_3/section_1/media/image32.png) | Executes nested statements when button A, B, or A+B is pressed. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_1/media/image56.png) | ![](../_static/media/chapter_3/section_1/media/image31.png) | Displays the set number on the LED dot matrix. If it is multi-digit, it scrolls. |
+| ![](../_static/media/chapter_3/section_1/media/image57.png) | ![](../_static/media/chapter_3/section_1/media/image32.png) | Executes nested statements when button A, B, or A+B is pressed. |
 
-   - Block Combination
+- Block Combination
 
      <img src="../_static/media/chapter_3/section_1/media/image23.png" class="common_img" style="width:600px;">
 
@@ -308,15 +308,15 @@ Once the program is downloaded, pressing button A plays the melody of **Two Tige
 
 2. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_1/media/image58.png) | ![](../_static/media/chapter_3/section_1/media/image40.png) | Directs serial input and output to use the USB connection. |
-     | ![](../_static/media/chapter_3/section_1/media/image59.png) | ![](../_static/media/chapter_3/section_1/media/image40.png) | Writes values and newlines to the serial port. |
-     | ![](../_static/media/chapter_3/section_1/media/image60.png) | ![](../_static/media/chapter_3/section_1/media/image37.png) | Drops the last few digits of the original value. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_1/media/image58.png) | ![](../_static/media/chapter_3/section_1/media/image40.png) | Directs serial input and output to use the USB connection. |
+| ![](../_static/media/chapter_3/section_1/media/image59.png) | ![](../_static/media/chapter_3/section_1/media/image40.png) | Writes values and newlines to the serial port. |
+| ![](../_static/media/chapter_3/section_1/media/image60.png) | ![](../_static/media/chapter_3/section_1/media/image37.png) | Drops the last few digits of the original value. |
 
-   - Block Combination
+- Block Combination
 
      <img src="../_static/media/chapter_3/section_1/media/image25.1.png" class="common_img" style="width:300px;">
 
@@ -386,14 +386,14 @@ Once the program is downloaded, speak toward the microphone on the micro:bit boa
 
 2. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_1/media/image58.png) | ![](../_static/media/chapter_3/section_1/media/image40.png) | Directs serial input and output to use the USB connection. |
-     | ![](../_static/media/chapter_3/section_1/media/image59.png) | ![](../_static/media/chapter_3/section_1/media/image40.png) | Writes values and newlines to the serial port. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_1/media/image58.png) | ![](../_static/media/chapter_3/section_1/media/image40.png) | Directs serial input and output to use the USB connection. |
+| ![](../_static/media/chapter_3/section_1/media/image59.png) | ![](../_static/media/chapter_3/section_1/media/image40.png) | Writes values and newlines to the serial port. |
 
-   - Block Combination
+- Block Combination
 
      <img src="../_static/media/chapter_3/section_1/media/image26.1.png" class="common_img" style="width:300px;">
 
@@ -457,14 +457,14 @@ The location of the magnetometer on the micro:bit board is shown below.
 
 2. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_1/media/image58.png) | ![](../_static/media/chapter_3/section_1/media/image40.png) | Directs serial input and output to use the USB connection. |
-     | ![](../_static/media/chapter_3/section_1/media/image59.png) | ![](../_static/media/chapter_3/section_1/media/image40.png) | Writes values and newlines to the serial port. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_1/media/image58.png) | ![](../_static/media/chapter_3/section_1/media/image40.png) | Directs serial input and output to use the USB connection. |
+| ![](../_static/media/chapter_3/section_1/media/image59.png) | ![](../_static/media/chapter_3/section_1/media/image40.png) | Writes values and newlines to the serial port. |
 
-   - Block Combination
+- Block Combination
 
      <img src="../_static/media/chapter_3/section_1/media/image27.1.png" class="common_img" style="width:300px;">
 
@@ -547,21 +547,21 @@ The location of the magnetometer on the micro:bit board is shown below.
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_2/media/image21.png) | ![](../_static/media/chapter_3/section_2/media/image31.png) | Draws the selected pattern on the LED screen. |
-     | ![](../_static/media/chapter_3/section_2/media/image28.png) | ![](../_static/media/chapter_3/section_2/media/image35.png) | Satisfies the condition when two inputs are equal to each other. |
-     | ![](../_static/media/chapter_3/section_2/media/image29.png) | ![](../_static/media/chapter_3/section_2/media/image35.png) | Executes nested statements if the condition is satisfied. |
-     | ![](../_static/media/chapter_3/section_2/media/image26.png) | ![](../_static/media/chapter_3/section_2/media/image36.png) | Sets the variable equal to the input. |
-     | ![](../_static/media/chapter_3/section_2/media/image27.png) | ![](../_static/media/chapter_3/section_2/media/image36.png) | Changes the value of the variable by an increment of 1. |
-     | ![](../_static/media/chapter_3/section_2/media/image22.png) | ![](../_static/media/chapter_3/section_2/media/image38.png) | Initializes the DaDabit module, which should be executed at startup. |
-     | ![](../_static/media/chapter_3/section_2/media/image23.png) | ![](../_static/media/chapter_3/section_2/media/image38.png) | Sets the color of the RGB lights. |
-     | ![](../_static/media/chapter_3/section_2/media/image24.png) | ![](../_static/media/chapter_3/section_2/media/image38.png) | Displays the RGB lights, used in conjunction with setting the light color. This must be executed after setting the color to apply to the display. |
-     | ![](../_static/media/chapter_3/section_2/media/image25.png) | ![](../_static/media/chapter_3/section_2/media/image32.png) | Gets the sound loudness from the sound sensor. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_2/media/image21.png) | ![](../_static/media/chapter_3/section_2/media/image31.png) | Draws the selected pattern on the LED screen. |
+| ![](../_static/media/chapter_3/section_2/media/image28.png) | ![](../_static/media/chapter_3/section_2/media/image35.png) | Satisfies the condition when two inputs are equal to each other. |
+| ![](../_static/media/chapter_3/section_2/media/image29.png) | ![](../_static/media/chapter_3/section_2/media/image35.png) | Executes nested statements if the condition is satisfied. |
+| ![](../_static/media/chapter_3/section_2/media/image26.png) | ![](../_static/media/chapter_3/section_2/media/image36.png) | Sets the variable equal to the input. |
+| ![](../_static/media/chapter_3/section_2/media/image27.png) | ![](../_static/media/chapter_3/section_2/media/image36.png) | Changes the value of the variable by an increment of 1. |
+| ![](../_static/media/chapter_3/section_2/media/image22.png) | ![](../_static/media/chapter_3/section_2/media/image38.png) | Initializes the DaDabit module, which should be executed at startup. |
+| ![](../_static/media/chapter_3/section_2/media/image23.png) | ![](../_static/media/chapter_3/section_2/media/image38.png) | Sets the color of the RGB lights. |
+| ![](../_static/media/chapter_3/section_2/media/image24.png) | ![](../_static/media/chapter_3/section_2/media/image38.png) | Displays the RGB lights, used in conjunction with setting the light color. This must be executed after setting the color to apply to the display. |
+| ![](../_static/media/chapter_3/section_2/media/image25.png) | ![](../_static/media/chapter_3/section_2/media/image32.png) | Gets the sound loudness from the sound sensor. |
 
-   - Block Combination
+- Block Combination
 
      <img src="../_static/media/chapter_3/section_2/media/image30.png" class="common_img" style="width:600px;">
 
@@ -631,18 +631,18 @@ Connect the micro:bit board to the computer using a USB data cable and download 
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_2/media/image28.png) | ![](../_static/media/chapter_3/section_2/media/image35.png) | Satisfies the condition when two inputs are equal to each other. |
-     | ![](../_static/media/chapter_3/section_2/media/image42.png) | ![](../_static/media/chapter_3/section_2/media/image34.png) | Executes nested blocks if the condition is satisfied. |
-     | ![](../_static/media/chapter_3/section_2/media/image44.png) | ![](../_static/media/chapter_3/section_2/media/image36.png) | Sets the variable equal to the input. |
-     | ![](../_static/media/chapter_3/section_2/media/image45.png) | ![](../_static/media/chapter_3/section_2/media/image36.png) | Changes the value of the variable by an increment of 1. |
-     | ![](../_static/media/chapter_3/section_2/media/image22.png) | ![](../_static/media/chapter_3/section_2/media/image38.png) | Initializes the DaDabit module, which should be executed at startup. |
-     | ![](../_static/media/chapter_3/section_2/media/image43.png) | ![](../_static/media/chapter_3/section_2/media/image38.png) | Configures the servo number, angle, and motion duration. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_2/media/image28.png) | ![](../_static/media/chapter_3/section_2/media/image35.png) | Satisfies the condition when two inputs are equal to each other. |
+| ![](../_static/media/chapter_3/section_2/media/image42.png) | ![](../_static/media/chapter_3/section_2/media/image34.png) | Executes nested blocks if the condition is satisfied. |
+| ![](../_static/media/chapter_3/section_2/media/image44.png) | ![](../_static/media/chapter_3/section_2/media/image36.png) | Sets the variable equal to the input. |
+| ![](../_static/media/chapter_3/section_2/media/image45.png) | ![](../_static/media/chapter_3/section_2/media/image36.png) | Changes the value of the variable by an increment of 1. |
+| ![](../_static/media/chapter_3/section_2/media/image22.png) | ![](../_static/media/chapter_3/section_2/media/image38.png) | Initializes the DaDabit module, which should be executed at startup. |
+| ![](../_static/media/chapter_3/section_2/media/image43.png) | ![](../_static/media/chapter_3/section_2/media/image38.png) | Configures the servo number, angle, and motion duration. |
 
-   - Block Combination
+- Block Combination
 
      <img src="../_static/media/chapter_3/section_2/media/image46.png" class="common_img" style="width:500px;">
 
@@ -714,15 +714,15 @@ Connect the micro:bit board to the computer using a USB data cable and download 
 
 3. Programming:
 
-   - Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_2/media/image51.png) | ![](../_static/media/chapter_3/section_2/media/image32.png) | Detects the button state, acting as a trigger for starting, stopping, or steering the motor. |
-     | ![](../_static/media/chapter_3/section_2/media/image22.png) | ![](../_static/media/chapter_3/section_2/media/image38.png) | Initializes the DaDabit module, which should be executed at startup. |
-     | ![](../_static/media/chapter_3/section_2/media/image52.png) | ![](../_static/media/chapter_3/section_2/media/image38.png) | Controls the specified motor to rotate in the set direction and speed. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_2/media/image51.png) | ![](../_static/media/chapter_3/section_2/media/image32.png) | Detects the button state, acting as a trigger for starting, stopping, or steering the motor. |
+| ![](../_static/media/chapter_3/section_2/media/image22.png) | ![](../_static/media/chapter_3/section_2/media/image38.png) | Initializes the DaDabit module, which should be executed at startup. |
+| ![](../_static/media/chapter_3/section_2/media/image52.png) | ![](../_static/media/chapter_3/section_2/media/image38.png) | Controls the specified motor to rotate in the set direction and speed. |
 
-   - Block Combination
+- Block Combination
 
      <img src="../_static/media/chapter_3/section_2/media/image53.png" class="common_img" style="width:500px;">
 
@@ -812,14 +812,16 @@ As shown below:
 
 3. Programming:
 
-   * Block Overview
+- Block Overview
+
 
      | Block | Category | Description |
      | :---: | :---: | :---: |
      | ![](../_static/media/chapter_3/section_3/subsection_1/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A is pressed to trigger actions. |
      | ![](../_static/media/chapter_3/section_3/subsection_1/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
 
-   * Block Combination
+- Block Combination
+
 
      <img src="../_static/media/chapter_3/section_3/subsection_1/media/image1.png" class="common_img" style="width:500px;">
 
@@ -903,14 +905,15 @@ As shown below:
 
 3. Programming:
 
-   * Block Overview
+- Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_3/subsection_2/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A or B is pressed to trigger actions. |
-     | ![](../_static/media/chapter_3/section_3/subsection_2/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_3/subsection_2/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A or B is pressed to trigger actions. |
+| ![](../_static/media/chapter_3/section_3/subsection_2/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
 
-   * Block Combination
+- Block Combination
+
 
      <img src="../_static/media/chapter_3/section_3/subsection_2/media/image1.png" class="common_img" style="width:550px;">
 
@@ -1000,15 +1003,15 @@ As shown below:
 
 3. Programming:
 
-   * Block Overview
+* Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_3/subsection_3/media/image5.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image31.png) | Displays a preset icon on the controller screen. |
-     | ![](../_static/media/chapter_3/section_3/subsection_3/media/image4.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects the ambient sound level as a trigger condition for actions. |
-     | ![](../_static/media/chapter_3/section_3/subsection_3/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_3/subsection_3/media/image5.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image31.png) | Displays a preset icon on the controller screen. |
+| ![](../_static/media/chapter_3/section_3/subsection_3/media/image4.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects the ambient sound level as a trigger condition for actions. |
+| ![](../_static/media/chapter_3/section_3/subsection_3/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
 
-   * Block Combination
+* Block Combination
 
      <img src="../_static/media/chapter_3/section_3/subsection_3/media/image1.png" class="common_img" style="width:500px;">
 
@@ -1092,14 +1095,14 @@ As shown below:
 
 3. Programming:
 
-   * Block Overview
+* Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_3/subsection_4/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A or B is pressed to trigger actions. |
-     | ![](../_static/media/chapter_3/section_3/subsection_4/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_3/subsection_4/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A or B is pressed to trigger actions. |
+| ![](../_static/media/chapter_3/section_3/subsection_4/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
 
-   * Block Combination
+* Block Combination
 
      <img src="../_static/media/chapter_3/section_3/subsection_4/media/image1.png" class="common_img" style="width:550px;">
 
@@ -1183,14 +1186,14 @@ As shown below:
 
 3. Programming:
 
-   * Block Overview
+* Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_3/subsection_5/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A or B is pressed to trigger actions. |
-     | ![](../_static/media/chapter_3/section_3/subsection_5/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_3/subsection_5/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A or B is pressed to trigger actions. |
+| ![](../_static/media/chapter_3/section_3/subsection_5/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
 
-   * Block Combination
+* Block Combination
 
      <img src="../_static/media/chapter_3/section_3/subsection_5/media/image1.png" class="common_img" style="width:550px;">
 
@@ -1280,14 +1283,14 @@ As shown below:
 
 3. Programming:
 
-   * Block Overview
+* Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_3/subsection_6/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A or B is pressed to trigger actions. |
-     | ![](../_static/media/chapter_3/section_3/subsection_6/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_3/subsection_6/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A or B is pressed to trigger actions. |
+| ![](../_static/media/chapter_3/section_3/subsection_6/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
 
-   * Block Combination
+* Block Combination
 
      <img src="../_static/media/chapter_3/section_3/subsection_6/media/image1.png" class="common_img" style="width:550px;">
 
@@ -1371,14 +1374,14 @@ As shown below:
 
 3. Programming:
 
-   * Block Overview
+* Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_3/subsection_7/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A or B is pressed to trigger actions. |
-     | ![](../_static/media/chapter_3/section_3/subsection_7/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_3/subsection_7/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A or B is pressed to trigger actions. |
+| ![](../_static/media/chapter_3/section_3/subsection_7/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
 
-   * Block Combination
+* Block Combination
 
      <img src="../_static/media/chapter_3/section_3/subsection_7/media/image1.png" class="common_img" style="width:550px;">
 
@@ -1462,14 +1465,14 @@ As shown below:
 
 3. Programming:
 
-   * Block Overview
+* Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_3/subsection_8/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A or B is pressed to trigger actions. |
-     | ![](../_static/media/chapter_3/section_3/subsection_8/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_3/subsection_8/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A or B is pressed to trigger actions. |
+| ![](../_static/media/chapter_3/section_3/subsection_8/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
 
-   * Block Combination
+* Block Combination
 
      <img src="../_static/media/chapter_3/section_3/subsection_8/media/image1.png" class="common_img" style="width:550px;">
 
@@ -1553,14 +1556,14 @@ As shown below:
 
 3. Programming:
 
-   * Block Overview
+* Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_3/subsection_9/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A or B is pressed to trigger actions. |
-     | ![](../_static/media/chapter_3/section_3/subsection_9/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_3/subsection_9/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A or B is pressed to trigger actions. |
+| ![](../_static/media/chapter_3/section_3/subsection_9/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
 
-   * Block Combination
+* Block Combination
 
      <img src="../_static/media/chapter_3/section_3/subsection_9/media/image1.png" class="common_img" style="width:550px;">
 
@@ -1644,14 +1647,14 @@ As shown below:
 
 3. Programming:
 
-   * Block Overview
+* Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_3/subsection_10/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A is pressed to trigger actions. |
-     | ![](../_static/media/chapter_3/section_3/subsection_10/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_3/subsection_10/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A is pressed to trigger actions. |
+| ![](../_static/media/chapter_3/section_3/subsection_10/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
 
-   * Block Combination
+* Block Combination
 
      <img src="../_static/media/chapter_3/section_3/subsection_10/media/image1.png" class="common_img" style="width:550px;">
 
@@ -1735,14 +1738,14 @@ As shown below:
 
 3. Programming:
 
-   * Block Overview
+* Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_3/subsection_11/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A or B is pressed to trigger actions. |
-     | ![](../_static/media/chapter_3/section_3/subsection_11/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_3/subsection_11/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A or B is pressed to trigger actions. |
+| ![](../_static/media/chapter_3/section_3/subsection_11/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
 
-   * Block Combination
+* Block Combination
 
      <img src="../_static/media/chapter_3/section_3/subsection_11/media/image1.png" class="common_img" style="width:550px;">
 
@@ -1826,14 +1829,14 @@ As shown below:
 
 3. Programming:
 
-   * Block Overview
+* Block Overview
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_3/subsection_12/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A or B is pressed to trigger actions. |
-     | ![](../_static/media/chapter_3/section_3/subsection_12/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_3/subsection_12/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A or B is pressed to trigger actions. |
+| ![](../_static/media/chapter_3/section_3/subsection_12/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified motor to rotate continuously in the set direction and speed. |
 
-   * Block Combination
+* Block Combination
 
      <img src="../_static/media/chapter_3/section_3/subsection_12/media/image1.png" class="common_img" style="width:550px;">
 
