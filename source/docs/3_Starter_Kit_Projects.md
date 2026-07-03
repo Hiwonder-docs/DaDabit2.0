@@ -91,14 +91,14 @@ The location of the main chip on the micro:bit board is shown below.
 
 2. Programming:
 
-   - Block Overview
+- Block Overview
 
 | Block | Category | Description |
 | :---: | :---: | :---: |
 | ![](../_static/media/chapter_3/section_1/media/image54.png) | ![](../_static/media/chapter_3/section_1/media/image32.png) | Reads the temperature in degrees Celsius. |
 | ![](../_static/media/chapter_3/section_1/media/image55.png) | ![](../_static/media/chapter_3/section_1/media/image33.png) | Plays the designated sound until complete. |
 
-   - Block Combination
+- Block Combination
 
      <img src="../_static/media/chapter_3/section_1/media/image22.png" class="common_img" style="width:500px;">
 
