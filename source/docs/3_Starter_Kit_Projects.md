@@ -815,10 +815,10 @@ As shown below:
 - Block Overview
 
 
-     | Block | Category | Description |
-     | :---: | :---: | :---: |
-     | ![](../_static/media/chapter_3/section_3/subsection_1/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A is pressed to trigger actions. |
-     | ![](../_static/media/chapter_3/section_3/subsection_1/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
+| Block | Category | Description |
+| :---: | :---: | :---: |
+| ![](../_static/media/chapter_3/section_3/subsection_1/media/image3.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image32.png) | Detects when button A is pressed to trigger actions. |
+| ![](../_static/media/chapter_3/section_3/subsection_1/media/image2.png) | ![](../_static/media/chapter_3/section_3/subsection_1/media/image38.png) | Controls the specified servo to rotate to the target angle within a set time. |
 
 - Block Combination
 
