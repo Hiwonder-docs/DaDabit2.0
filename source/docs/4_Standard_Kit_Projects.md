@@ -48,7 +48,7 @@ As shown below:
 
    - Block Combination
 
-     <img src="../_static/media/chapter_4/section_1/media/image3.png" class="common_img" style="width:500px;">
+     <img src="../_static/media/chapter_4/section_1/media/image3.png" class="common_img" style="width:400px;">
 
 4. Device Pairing and Program Downloading
 
@@ -228,7 +228,7 @@ As shown below:
 
    - Block Combination
 
-     <img src="../_static/media/chapter_4/section_1/media/image35.png" class="common_img" style="width:500px;">
+     <img src="../_static/media/chapter_4/section_1/media/image35.png" class="common_img" style="width:400px;">
 
 4. Device Pairing and Program Downloading
 
@@ -281,7 +281,7 @@ After powering on and initialization, the device continuously detects the distan
 
 #### 4.2.1.2 Assembly Guide
 
-For the building steps of the smart emergency light, refer to the building guide in [6_Assembly_Manual]() for **Smart Emergency Light**.
+For the building steps of the smart emergency light, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#smart-emergency-light) for **Smart Emergency Light**.
 
 #### 4.2.1.3 Wiring Guide
 
@@ -374,7 +374,7 @@ As shown below:
 
 #### 4.2.2.2 Assembly Guide
 
-For the building steps of the smart gesture-controlled light, refer to the building guide in [6_Assembly_Manual]() for **Smart Gesture-Controlled Light**.
+For the building steps of the smart gesture-controlled light, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#smart-gesture-controlled-light) for **Smart Gesture-Controlled Light**.
 
 #### 4.2.2.3 Wiring Guide
 
@@ -467,7 +467,7 @@ As shown below:
 
 #### 4.2.3.2 Assembly Guide
 
-For the building steps of the automatic clothes rack, refer to the building guide in [6_Assembly_Manual]() for **Automatic Clothes Rack**.
+For the building steps of the automatic clothes rack, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#automatic-clothes-rack) for **Automatic Clothes Rack**.
 
 #### 4.2.3.3 Wiring Guide
 
@@ -566,7 +566,7 @@ As shown below:
 
 #### 4.2.4.2 Assembly Guide
 
-For the building steps of the automated flagpole, refer to the building guide in [6_Assembly_Manual]() for **Automated Flagpole**.
+For the building steps of the automated flagpole, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#automated-flagpole) for **Automated Flagpole**.
 
 #### 4.2.4.3 Wiring Guide
 
@@ -663,7 +663,7 @@ As shown below:
 
 #### 4.2.5.2 Assembly Guide
 
-For the building steps of the scissor lift, refer to the building guide in [6_Assembly_Manual]() for **Scissor Lift**.
+For the building steps of the scissor lift, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#scissor-lift) for **Scissor Lift**.
 
 #### 4.2.5.3 Wiring Guide
 
@@ -760,7 +760,7 @@ As shown below:
 
 #### 4.2.6.2 Assembly Guide
 
-For the building steps of the greeting bot, refer to the building guide in [6_Assembly_Manual]() for **Greeting Bot**.
+For the building steps of the greeting bot, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#greeting-bot) for **Greeting Bot**.
 
 #### 4.2.6.3 Wiring Guide
 
@@ -859,7 +859,7 @@ As shown below:
 
 #### 4.2.7.2 Assembly Guide
 
-For the building steps of the woodpecker, refer to the building guide in [6_Assembly_Manual]() for **Woodpecker**.
+For the building steps of the woodpecker, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#woodpecker) for **Woodpecker**.
 
 #### 4.2.7.3 Wiring Guide
 
@@ -950,7 +950,7 @@ As shown below:
 
 #### 4.2.8.2 Assembly Guide
 
-For the building steps of the jump rope pro, refer to the building guide in [6_Assembly_Manual]() for **Jump Rope Pro**.
+For the building steps of the jump rope pro, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#jump-rope-pro) for **Jump Rope Pro**.
 
 #### 4.2.8.3 Wiring Guide
 
@@ -1041,7 +1041,7 @@ As shown below:
 
 #### 4.2.9.2 Assembly Guide
 
-For the building steps of the sentinel radar, refer to the building guide in [6_Assembly_Manual]() for **Sentinel Radar**.
+For the building steps of the sentinel radar, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#sentinel-radar) for **Sentinel Radar**.
 
 #### 4.2.9.3 Wiring Guide
 
@@ -1137,7 +1137,7 @@ As shown below:
 
 #### 4.2.10.2 Assembly Guide
 
-For the building steps of the chopping bot, refer to the building guide in [6_Assembly_Manual]() for **Chopping Bot**.
+For the building steps of the chopping bot, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#chopping-bot) for **Chopping Bot**.
 
 #### 4.2.10.3 Wiring Guide
 
@@ -1230,7 +1230,7 @@ As shown below:
 
 #### 4.2.11.2 Assembly Guide
 
-For the building steps of the smart sunshade, refer to the building guide in [6_Assembly_Manual]() for **Smart Sunshade**.
+For the building steps of the smart sunshade, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#smart-sunshade) for **Smart Sunshade**.
 
 #### 4.2.11.3 Wiring Guide
 
@@ -1329,7 +1329,7 @@ As shown below:
 
 #### 4.2.12.2 Assembly Guide
 
-For the building steps of the parkour runner, refer to the building guide in [6_Assembly_Manual]() for **Parkour Runner**.
+For the building steps of the parkour runner, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#parkour-runner) for **Parkour Runner**.
 
 #### 4.2.12.3 Wiring Guide
 
