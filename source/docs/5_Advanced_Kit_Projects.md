@@ -191,7 +191,7 @@ The digital tube module shows the initial count value by default after the devic
 
 #### 5.2.1.2 Assembly Guide
 
-For the building steps of the cute penguin, refer to the building guide in [6_Assembly_Manual]() for **Cute Penguin**.
+For the building steps of the cute penguin, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#cute-penguin) for **Cute Penguin**.
 
 #### 5.2.1.3 Wiring Guide
 
@@ -290,7 +290,7 @@ As shown below:
 
 #### 5.2.2.2 Assembly Guide
 
-For the building steps of the rotating rangefinder, refer to the building guide in [6_Assembly_Manual]() for **Rotating Rangefinder**.
+For the building steps of the rotating rangefinder, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#rotating-rangefinder) for **Rotating Rangefinder**.
 
 #### 5.2.2.3 Wiring Guide
 
@@ -393,7 +393,7 @@ As shown below:
 
 #### 5.2.3.2 Assembly Guide
 
-For the building steps of the digital thermometer, refer to the building guide in [6_Assembly_Manual]() for **Digital Thermometer**.
+For the building steps of the digital thermometer, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#digital-thermometer) for **Digital Thermometer**.
 
 #### 5.2.3.3 Wiring Guide
 
@@ -484,7 +484,7 @@ As shown below:
 
 #### 5.2.4.2 Assembly Guide
 
-For the building steps of the basketball arcade, refer to the building guide in [6_Assembly_Manual]() for **Basketball Arcade**.
+For the building steps of the basketball arcade, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#basketball-arcade) for **Basketball Arcade**.
 
 #### 5.2.4.3 Wiring Guide
 
@@ -577,7 +577,7 @@ As shown below:
 
 #### 5.2.5.2 Assembly Guide
 
-For the building steps of the golf robot, refer to the building guide in [6_Assembly_Manual]() for **Golf Robot**.
+For the building steps of the golf robot, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#golf-robot) for **Golf Robot**.
 
 #### 5.2.5.3 Wiring Guide
 
@@ -676,7 +676,7 @@ As shown below:
 
 #### 5.2.6.2 Assembly Guide
 
-For the building steps of the unicycle rider, refer to the building guide in [6_Assembly_Manual]() for **Unicycle Rider**.
+For the building steps of the unicycle rider, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#unicycle-rider) for **Unicycle Rider**.
 
 #### 5.2.6.3 Wiring Guide
 
@@ -772,7 +772,7 @@ As shown below:
 
 #### 5.2.7.2 Assembly Guide
 
-For the building steps of the Jade Rabbit, refer to the building guide in [6_Assembly_Manual]() for **Jade Rabbit**.
+For the building steps of the Jade Rabbit, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#jade-rabbit) for **Jade Rabbit**.
 
 #### 5.2.7.3 Wiring Guide
 
@@ -863,7 +863,7 @@ As shown below:
 
 #### 5.2.8.2 Assembly Guide
 
-For the building steps of the fluttering butterfly, refer to the building guide in [6_Assembly_Manual]() for **Fluttering Butterfly**.
+For the building steps of the fluttering butterfly, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#fluttering-butterfly) for **Fluttering Butterfly**.
 
 #### 5.2.8.3 Wiring Guide
 
@@ -956,7 +956,7 @@ As shown below:
 
 #### 5.2.9.2 Assembly Guide
 
-For the building steps of the multi-legged bot, refer to the building guide in [6_Assembly_Manual]() for **Multi-Legged Bot**.
+For the building steps of the multi-legged bot, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#multi-legged-bot) for **Multi-Legged Bot**.
 
 #### 5.2.9.3 Wiring Guide
 
@@ -1050,7 +1050,7 @@ As shown below:
 
 #### 5.2.10.2 Assembly Guide
 
-For the building steps of the F1 Race Car, refer to the building guide in [6_Assembly_Manual]() for **F1 Race Car**.
+For the building steps of the F1 Race Car, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#f1-race-car) for **F1 Race Car**.
 
 #### 5.2.10.3 Wiring Guide
 
@@ -1157,7 +1157,7 @@ As shown below:
 
 #### 5.2.11.2 Assembly Guide
 
-For the building steps of the mecha master, refer to the building guide in [6_Assembly_Manual]() for **Mecha Master**.
+For the building steps of the mecha master, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#mecha-master) for **Mecha Master**.
 
 #### 5.2.11.3 Wiring Guide
 
@@ -1264,7 +1264,7 @@ As shown below:
 
 #### 5.2.12.2 Assembly Guide
 
-For the building steps of the smart avoidance car, refer to the building guide in [6_Assembly_Manual]() for **Smart Avoidance Car**.
+For the building steps of the smart avoidance car, refer to the building guide in [6. Creative Builds Assembly Guide](https://wiki.hiwonder.com/projects/DaDabitV2/en/latest/docs/6_Creative_Assembly_Guide.html#smart-avoidance-car) for **Smart Avoidance Car**.
 
 #### 5.2.12.3 Wiring Guide
 
